@@ -21,7 +21,7 @@ import axios from 'axios';
 import IngredientInput from './components/IngredientInput';
 import RecipeCard from './components/RecipeCard';
 
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = process.env.REACT_APP_API_BASE || 'http://localhost:5000/api';
 
 function App() {
   // Use useRef to store state that won't trigger re-renders

@@ -2,6 +2,7 @@
   "name": "pantry-ai-frontend",
   "version": "1.0.0",
   "description": "PantryAI Frontend - AI Recipe Generator",
+  "homepage": "https://your-app-name.vercel.app",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
