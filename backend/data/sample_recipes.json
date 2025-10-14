@@ -1,0 +1,2082 @@
+[
+  {
+    "id": 1,
+    "title": "Butter Chicken",
+    "ingredients": ["chicken", "butter", "tomatoes", "cream", "garlic", "ginger", "garam masala", "kasuri methi"],
+    "instructions": ["Marinate chicken in yogurt and spices", "Make tomato-onion gravy", "Add cooked chicken to gravy", "Finish with cream and butter", "Garnish with kasuri methi"],
+    "cooking_time": 45,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "north-indian"]
+  },
+  {
+    "id": 2,
+    "title": "Palak Paneer",
+    "ingredients": ["paneer", "spinach", "onion", "tomatoes", "garlic", "ginger", "cream", "garam masala"],
+    "instructions": ["Blanch and puree spinach", "Make onion-tomato base", "Add spinach puree", "Add paneer cubes", "Simmer with cream and spices"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "north-indian", "paneer"]
+  },
+  {
+    "id": 3,
+    "title": "Chole Bhature",
+    "ingredients": ["chickpeas", "flour", "yogurt", "onion", "tomatoes", "tea bags", "chole masala"],
+    "instructions": ["Soak chickpeas overnight", "Pressure cook with tea bags", "Make spicy gravy", "Prepare bhature dough", "Deep fry bhature", "Serve hot"],
+    "cooking_time": 60,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "punjabi", "street-food"]
+  },
+  {
+    "id": 4,
+    "title": "Biryani",
+    "ingredients": ["basmati rice", "chicken", "onion", "yogurt", "biryani masala", "saffron", "mint", "coriander"],
+    "instructions": ["Marinate chicken", "Fry onions until golden", "Layer rice and chicken", "Add saffron milk", "Dum cook for 20 minutes"],
+    "cooking_time": 60,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "festive", "hyderabadi"]
+  },
+  {
+    "id": 5,
+    "title": "Masala Dosa",
+    "ingredients": ["rice", "urad dal", "potatoes", "onion", "mustard seeds", "curry leaves", "chana dal"],
+    "instructions": ["Soak rice and dal overnight", "Grind to make batter", "Ferment for 8 hours", "Make potato masala", "Spread dosa on tawa", "Serve with chutney"],
+    "cooking_time": 90,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "south-indian", "breakfast"]
+  },
+  {
+    "id": 6,
+    "title": "Rajma Chawal",
+    "ingredients": ["kidney beans", "rice", "onion", "tomatoes", "ginger", "garlic", "rajma masala"],
+    "instructions": ["Soak rajma overnight", "Pressure cook until soft", "Make onion-tomato gravy", "Add rajma and simmer", "Serve with steamed rice"],
+    "cooking_time": 50,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "punjabi", "comfort-food"]
+  },
+  {
+    "id": 7,
+    "title": "Paneer Tikka",
+    "ingredients": ["paneer", "bell peppers", "onion", "yogurt", "ginger-garlic paste", "chaat masala", "lemon"],
+    "instructions": ["Marinate paneer in spiced yogurt", "Skewer with vegetables", "Grill or bake until charred", "Squeeze lemon juice", "Sprinkle chaat masala"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "starter", "tandoori"]
+  },
+  {
+    "id": 8,
+    "title": "Aloo Gobi",
+    "ingredients": ["potatoes", "cauliflower", "onion", "tomatoes", "turmeric", "coriander powder", "cumin seeds"],
+    "instructions": ["Cut potatoes and cauliflower", "Temper cumin seeds", "Add onions and sauté", "Add spices and vegetables", "Cook covered until tender"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "north-indian", "everyday"]
+  },
+  {
+    "id": 9,
+    "title": "Fish Curry",
+    "ingredients": ["fish", "coconut", "tamarind", "shallots", "red chilies", "fenugreek", "curry leaves"],
+    "instructions": ["Marinate fish with turmeric", "Make coconut-based gravy", "Add tamarind for tang", "Gently add fish pieces", "Simmer until cooked"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "kerala", "seafood"]
+  },
+  {
+    "id": 10,
+    "title": "Pav Bhaji",
+    "ingredients": ["mixed vegetables", "pav", "butter", "onion", "tomatoes", "pav bhaji masala", "lemon"],
+    "instructions": ["Boil and mash vegetables", "Make spicy tomato gravy", "Mix vegetables into gravy", "Toast pav with butter", "Serve with chopped onions"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "mumbai", "street-food"]
+  },
+  {
+    "id": 11,
+    "title": "Dal Tadka",
+    "ingredients": ["toor dal", "onion", "tomatoes", "garlic", "cumin seeds", "red chilies", "ghee"],
+    "instructions": ["Pressure cook dal", "Prepare tomato-onion base", "Temper with spices in ghee", "Pour tadka over dal", "Garnish with coriander"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "north-indian", "everyday"]
+  },
+  {
+    "id": 12,
+    "title": "Chicken 65",
+    "ingredients": ["chicken", "yogurt", "red chili powder", "ginger-garlic paste", "curry leaves", "egg", "corn flour"],
+    "instructions": ["Marinate chicken in spicy yogurt", "Coat with corn flour", "Deep fry until crispy", "Toss with curry leaves", "Serve with onion rings"],
+    "cooking_time": 25,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "andhra", "starter"]
+  },
+  {
+    "id": 13,
+    "title": "Matar Paneer",
+    "ingredients": ["paneer", "green peas", "onion", "tomatoes", "cream", "garam masala", "kasuri methi"],
+    "instructions": ["Make onion-tomato gravy", "Add green peas", "Add paneer cubes", "Simmer with spices", "Finish with cream"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "north-indian", "paneer"]
+  },
+  {
+    "id": 14,
+    "title": "Idli Sambar",
+    "ingredients": ["rice", "urad dal", "toor dal", "vegetables", "sambar powder", "tamarind", "mustard seeds"],
+    "instructions": ["Soak rice and dal", "Grind and ferment batter", "Steam idlis", "Prepare sambar", "Serve with chutney"],
+    "cooking_time": 90,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "south-indian", "breakfast"]
+  },
+  {
+    "id": 15,
+    "title": "Rogan Josh",
+    "ingredients": ["mutton", "onion", "yogurt", "kashmiri chilies", "ginger powder", "fennel", "garam masala"],
+    "instructions": ["Brown mutton pieces", "Make onion-yogurt base", "Add Kashmiri spices", "Slow cook until tender", "Finish with garam masala"],
+    "cooking_time": 90,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "kashmiri", "festive"]
+  },
+  {
+    "id": 16,
+    "title": "Baingan Bharta",
+    "ingredients": ["eggplant", "onion", "tomatoes", "garlic", "green chilies", "mustard oil", "coriander"],
+    "instructions": ["Roast eggplant until charred", "Peel and mash pulp", "Sauté onions and tomatoes", "Add mashed eggplant", "Cook until oil separates"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "north-indian", "smoky"]
+  },
+  {
+    "id": 17,
+    "title": "Chicken Chettinad",
+    "ingredients": ["chicken", "coconut", "poppy seeds", "fennel", "peppercorns", "curry leaves", "shallots"],
+    "instructions": ["Make Chettinad masala paste", "Sauté shallots and curry leaves", "Add masala paste", "Add chicken and cook", "Finish with coconut"],
+    "cooking_time": 45,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "tamil-nadu", "spicy"]
+  },
+  {
+    "id": 18,
+    "title": "Aloo Paratha",
+    "ingredients": ["wheat flour", "potatoes", "green chilies", "coriander", "ajwain", "butter", "yogurt"],
+    "instructions": ["Make potato stuffing", "Prepare dough", "Stuff and roll parathas", "Cook on tawa with butter", "Serve with yogurt"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "punjabi", "breakfast"]
+  },
+  {
+    "id": 19,
+    "title": "Malai Kofta",
+    "ingredients": ["paneer", "potatoes", "cream", "cashews", "onion", "tomatoes", "khoya"],
+    "instructions": ["Make kofta balls", "Deep fry until golden", "Prepare rich gravy", "Simmer koftas in gravy", "Garnish with cream"],
+    "cooking_time": 60,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "mughlai", "festive"]
+  },
+  {
+    "id": 20,
+    "title": "Pongal",
+    "ingredients": ["rice", "moong dal", "peppercorns", "cumin", "ginger", "cashews", "ghee"],
+    "instructions": ["Roast dal until fragrant", "Cook with rice", "Temper with spices", "Add ginger and cashews", "Serve with sambar"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "tamil-nadu", "breakfast"]
+  },
+  {
+    "id": 21,
+    "title": "Dhokla",
+    "ingredients": ["besan", "yogurt", "fruit salt", "mustard seeds", "green chilies", "sugar", "lemon"],
+    "instructions": ["Make besan batter", "Add fruit salt", "Steam for 15 minutes", "Prepare tempering", "Pour over dhokla"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "gujarati", "snack"]
+  },
+  {
+    "id": 22,
+    "title": "Mutton Korma",
+    "ingredients": ["mutton", "onion", "yogurt", "poppy seeds", "almonds", "cream", "saffron"],
+    "instructions": ["Brown mutton pieces", "Make onion paste", "Add yogurt and spices", "Slow cook until tender", "Finish with cream"],
+    "cooking_time": 90,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "mughlai", "royal"]
+  },
+  {
+    "id": 23,
+    "title": "Masala Chai",
+    "ingredients": ["tea leaves", "milk", "ginger", "cardamom", "cloves", "sugar", "water"],
+    "instructions": ["Boil water with spices", "Add tea leaves", "Add milk and simmer", "Strain and serve hot", "Adjust sugar to taste"],
+    "cooking_time": 10,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "beverage", "everyday"]
+  },
+  {
+    "id": 24,
+    "title": "Vegetable Pulao",
+    "ingredients": ["basmati rice", "mixed vegetables", "onion", "ginger", "whole spices", "ghee", "mint"],
+    "instructions": ["Sauté vegetables", "Add whole spices", "Add rice and water", "Cook until done", "Fluff with fork"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "everyday", "rice"]
+  },
+  {
+    "id": 25,
+    "title": "Chicken Tikka Masala",
+    "ingredients": ["chicken", "yogurt", "tomatoes", "cream", "kasuri methi", "butter", "tikka masala"],
+    "instructions": ["Marinate and grill chicken", "Make creamy tomato gravy", "Add grilled chicken", "Simmer with cream", "Garnish with kasuri methi"],
+    "cooking_time": 50,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "british-indian", "creamy"]
+  },
+  {
+    "id": 26,
+    "title": "Samosa",
+    "ingredients": ["flour", "potatoes", "peas", "spices", "cumin seeds", "ajwain", "oil"],
+    "instructions": ["Make dough with ajwain", "Prepare potato filling", "Shape samosas", "Deep fry until golden", "Serve with chutney"],
+    "cooking_time": 60,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "snack", "street-food"]
+  },
+  {
+    "id": 27,
+    "title": "Gajar Ka Halwa",
+    "ingredients": ["carrots", "milk", "sugar", "ghee", "khoya", "cardamom", "dry fruits"],
+    "instructions": ["Grate carrots", "Cook in milk until thick", "Add sugar and ghee", "Add khoya and cardamom", "Garnish with dry fruits"],
+    "cooking_time": 60,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "dessert", "winter-special"]
+  },
+  {
+    "id": 28,
+    "title": "Egg Curry",
+    "ingredients": ["eggs", "onion", "tomatoes", "coconut", "poppy seeds", "garlic", "coriander powder"],
+    "instructions": ["Boil and peel eggs", "Make onion-tomato gravy", "Add coconut paste", "Add boiled eggs", "Simmer for 10 minutes"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "everyday", "eggetarian"]
+  },
+  {
+    "id": 29,
+    "title": "Medu Vada",
+    "ingredients": ["urad dal", "black pepper", "ginger", "curry leaves", "coconut", "green chilies", "oil"],
+    "instructions": ["Soak urad dal", "Grind to smooth batter", "Add spices and herbs", "Shape into donuts", "Deep fry until golden"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "south-indian", "breakfast"]
+  },
+  {
+    "id": 30,
+    "title": "Kadhai Paneer",
+    "ingredients": ["paneer", "bell peppers", "onion", "tomatoes", "kadhai masala", "ginger", "coriander"],
+    "instructions": ["Stir-fry paneer and peppers", "Make tomato-onion base", "Add kadhai masala", "Combine everything", "Garnish with coriander"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "restaurant-style", "paneer"]
+  },
+  {
+    "id": 31,
+    "title": "Chicken Biryani",
+    "ingredients": ["basmati rice", "chicken", "yogurt", "saffron", "mint", "fried onions", "biryani masala"],
+    "instructions": ["Marinate chicken", "Parboil rice", "Layer rice and chicken", "Add saffron and mint", "Dum cook for perfection"],
+    "cooking_time": 70,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "festive", "hyderabadi"]
+  },
+  {
+    "id": 32,
+    "title": "Dal Makhani",
+    "ingredients": ["black lentils", "kidney beans", "butter", "cream", "ginger", "garlic", "tomatoes"],
+    "instructions": ["Soak lentils overnight", "Slow cook for hours", "Add butter and cream", "Simmer until creamy", "Garnish with cream"],
+    "cooking_time": 120,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "punjabi", "restaurant-style"]
+  },
+  {
+    "id": 33,
+    "title": "Poha",
+    "ingredients": ["flattened rice", "onion", "potatoes", "peanuts", "mustard seeds", "turmeric", "lemon"],
+    "instructions": ["Rinse and drain poha", "Temper mustard seeds", "Add onions and potatoes", "Add poha and turmeric", "Garnish with lemon"],
+    "cooking_time": 20,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "breakfast", "maharashtrian"]
+  },
+  {
+    "id": 34,
+    "title": "Fish Fry",
+    "ingredients": ["fish", "red chili powder", "turmeric", "rice flour", "semolina", "lemon", "oil"],
+    "instructions": ["Marinate fish with spices", "Coat with rice flour", "Shallow fry until crisp", "Squeeze lemon juice", "Serve with onions"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["non-vegetarian", "coastal", "starter"]
+  },
+  {
+    "id": 35,
+    "title": "Vegetable Korma",
+    "ingredients": ["mixed vegetables", "coconut", "poppy seeds", "cashews", "cream", "yogurt", "korma masala"],
+    "instructions": ["Boil vegetables", "Make coconut-cashew paste", "Prepare creamy gravy", "Add vegetables", "Simmer with cream"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "south-indian", "mild"]
+  },
+  {
+    "id": 36,
+    "title": "Chicken Kebab",
+    "ingredients": ["chicken", "yogurt", "ginger-garlic", "chicken masala", "lemon juice", "oil", "chaat masala"],
+    "instructions": ["Marinate chicken overnight", "Skewer and grill", "Baste with butter", "Cook until charred", "Sprinkle chaat masala"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "mughlai", "starter"]
+  },
+  {
+    "id": 37,
+    "title": "Sambar",
+    "ingredients": ["toor dal", "tamarind", "sambar powder", "vegetables", "mustard seeds", "curry leaves", "asafoetida"],
+    "instructions": ["Cook dal until soft", "Prepare tamarind extract", "Add vegetables and cook", "Add sambar powder", "Temper with spices"],
+    "cooking_time": 45,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "south-indian", "everyday"]
+  },
+  {
+    "id": 38,
+    "title": "Aloo Matar",
+    "ingredients": ["potatoes", "green peas", "onion", "tomatoes", "ginger", "garam masala", "coriander"],
+    "instructions": ["Sauté onions and ginger", "Add tomatoes and spices", "Add potatoes and peas", "Cook until tender", "Garnish with coriander"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "north-indian", "everyday"]
+  },
+  {
+    "id": 39,
+    "title": "Mysore Masala Dosa",
+    "ingredients": ["dosa batter", "potatoes", "onion", "Mysore chutney", "butter", "red chutney", "ghee"],
+    "instructions": ["Spread dosa on tawa", "Apply red chutney", "Add potato filling", "Cook until crisp", "Serve with chutney"],
+    "cooking_time": 25,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "karnataka", "breakfast"]
+  },
+  {
+    "id": 40,
+    "title": "Chicken Curry",
+    "ingredients": ["chicken", "onion", "tomatoes", "ginger-garlic", "turmeric", "coriander powder", "garam masala"],
+    "instructions": ["Brown chicken pieces", "Make onion-tomato base", "Add spices and chicken", "Cook until tender", "Garnish with coriander"],
+    "cooking_time": 45,
+    "difficulty": "easy",
+    "dietary_tags": ["non-vegetarian", "everyday", "north-indian"]
+  },
+  {
+    "id": 41,
+    "title": "Paneer Butter Masala",
+    "ingredients": ["paneer", "butter", "tomatoes", "cashews", "cream", "sugar", "kasuri methi"],
+    "instructions": ["Make tomato-cashew paste", "Cook with butter", "Add paneer cubes", "Finish with cream", "Garnish with kasuri methi"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "restaurant-style", "paneer"]
+  },
+  {
+    "id": 42,
+    "title": "Upma",
+    "ingredients": ["semolina", "onion", "mustard seeds", "curry leaves", "green chilies", "lemon", "vegetables"],
+    "instructions": ["Roast semolina until fragrant", "Temper spices", "Add vegetables and water", "Add semolina slowly", "Cook until thick"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "south-indian", "breakfast"]
+  },
+  {
+    "id": 43,
+    "title": "Mutton Curry",
+    "ingredients": ["mutton", "onion", "tomatoes", "ginger-garlic", "whole spices", "coriander powder", "oil"],
+    "instructions": ["Brown mutton pieces", "Sauté onions and spices", "Add tomatoes and cook", "Add mutton and water", "Pressure cook until tender"],
+    "cooking_time": 60,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "bengali", "everyday"]
+  },
+  {
+    "id": 44,
+    "title": "Gobi Manchurian",
+    "ingredients": ["cauliflower", "corn flour", "soy sauce", "ginger", "garlic", "green chilies", "spring onions"],
+    "instructions": ["Make cauliflower florets", "Batter and deep fry", "Make Manchurian sauce", "Toss cauliflower in sauce", "Garnish with spring onions"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "indo-chinese", "starter"]
+  },
+  {
+    "id": 45,
+    "title": "Jeera Rice",
+    "ingredients": ["basmati rice", "cumin seeds", "ghee", "bay leaf", "cinnamon", "cardamom", "salt"],
+    "instructions": ["Wash and soak rice", "Temper cumin in ghee", "Add whole spices", "Add rice and water", "Cook until fluffy"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "everyday", "rice"]
+  },
+  {
+    "id": 46,
+    "title": "Chicken Lollipop",
+    "ingredients": ["chicken wings", "soy sauce", "red chili sauce", "ginger-garlic", "corn flour", "egg", "oil"],
+    "instructions": ["Prepare chicken lollipops", "Marinate in sauces", "Coat with batter", "Deep fry until crisp", "Serve with schezwan sauce"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "indo-chinese", "starter"]
+  },
+  {
+    "id": 47,
+    "title": "Dal Fry",
+    "ingredients": ["masoor dal", "onion", "tomatoes", "garlic", "red chilies", "cumin seeds", "ghee"],
+    "instructions": ["Pressure cook dal", "Sauté onions and garlic", "Add tomatoes and spices", "Combine with dal", "Temper with ghee"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "everyday", "comfort-food"]
+  },
+  {
+    "id": 48,
+    "title": "Vegetable Biryani",
+    "ingredients": ["basmati rice", "mixed vegetables", "yogurt", "biryani masala", "saffron", "mint", "fried onions"],
+    "instructions": ["Parboil rice", "Marinate vegetables", "Layer rice and vegetables", "Add saffron milk", "Dum cook for flavor"],
+    "cooking_time": 60,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "festive", "hyderabadi"]
+  },
+  {
+    "id": 49,
+    "title": "Chana Masala",
+    "ingredients": ["chickpeas", "onion", "tomatoes", "ginger", "amchur", "chana masala", "tea bag"],
+    "instructions": ["Soak chickpeas overnight", "Pressure cook with tea bag", "Make onion-tomato gravy", "Add chickpeas and simmer", "Finish with amchur"],
+    "cooking_time": 50,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "punjabi", "everyday"]
+  },
+  {
+    "id": 50,
+    "title": "Rava Dosa",
+    "ingredients": ["semolina", "rice flour", "all-purpose flour", "peppercorns", "cumin", "curry leaves", "oil"],
+    "instructions": ["Make thin batter", "Add spices and herbs", "Pour on hot tawa", "Drizzle oil around", "Cook until crisp"],
+    "cooking_time": 25,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "south-indian", "breakfast"]
+  },
+  {
+    "id": 51,
+    "title": "Chicken Fry",
+    "ingredients": ["chicken", "red chili powder", "turmeric", "lemon juice", "rice flour", "curry leaves", "oil"],
+    "instructions": ["Marinate chicken", "Coat with rice flour", "Deep fry until golden", "Toss with curry leaves", "Serve with lemon wedges"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["non-vegetarian", "andhra", "starter"]
+  },
+  {
+    "id": 52,
+    "title": "Methi Malai Mutter",
+    "ingredients": ["fenugreek leaves", "green peas", "cream", "onion", "cashews", "ginger", "garam masala"],
+    "instructions": ["Blanch fenugreek leaves", "Make onion-cashew paste", "Add peas and fenugreek", "Simmer with cream", "Finish with garam masala"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "winter-special", "delhi"]
+  },
+  {
+    "id": 53,
+    "title": "Egg Biryani",
+    "ingredients": ["basmati rice", "eggs", "onion", "yogurt", "biryani masala", "saffron", "mint"],
+    "instructions": ["Boil and fry eggs", "Parboil rice", "Layer rice and eggs", "Add saffron and mint", "Dum cook for flavor"],
+    "cooking_time": 50,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "eggetarian", "festive"]
+  },
+  {
+    "id": 54,
+    "title": "Kadhi Pakora",
+    "ingredients": ["besan", "yogurt", "onion", "spices", "mustard seeds", "fenugreek", "curry leaves"],
+    "instructions": ["Make besan pakoras", "Prepare yogurt gravy", "Add pakoras to kadhi", "Simmer for flavor", "Serve with rice"],
+    "cooking_time": 45,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "punjabi", "comfort-food"]
+  },
+  {
+    "id": 55,
+    "title": "Chicken Momos",
+    "ingredients": ["chicken", "flour", "onion", "garlic", "soy sauce", "vinegar", "spring onions"],
+    "instructions": ["Make chicken filling", "Prepare dough", "Shape momos", "Steam for 15 minutes", "Serve with spicy sauce"],
+    "cooking_time": 40,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "tibetan", "street-food"]
+  },
+  {
+    "id": 56,
+    "title": "Aloo Tikki",
+    "ingredients": ["potatoes", "bread crumbs", "green chilies", "coriander", "chaat masala", "tamarind chutney", "yogurt"],
+    "instructions": ["Boil and mash potatoes", "Add spices and shape", "Shallow fry until golden", "Top with chutneys", "Serve with yogurt"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "street-food", "snack"]
+  },
+  {
+    "id": 57,
+    "title": "Mutton Biryani",
+    "ingredients": ["basmati rice", "mutton", "yogurt", "saffron", "fried onions", "biryani masala", "mint"],
+    "instructions": ["Marinate mutton", "Parboil rice", "Layer mutton and rice", "Add saffron and herbs", "Dum cook until perfect"],
+    "cooking_time": 90,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "lucknowi", "festive"]
+  },
+  {
+    "id": 58,
+    "title": "Paneer Jalfrezi",
+    "ingredients": ["paneer", "bell peppers", "onion", "tomatoes", "capsicum", "soy sauce", "vinegar"],
+    "instructions": ["Stir-fry vegetables", "Add paneer cubes", "Make spicy gravy", "Add soy sauce", "Serve hot"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "indo-chinese", "paneer"]
+  },
+  {
+    "id": 59,
+    "title": "Masala Omelette",
+    "ingredients": ["eggs", "onion", "tomatoes", "green chilies", "coriander", "turmeric", "oil"],
+    "instructions": ["Chop vegetables finely", "Whisk eggs with spices", "Add vegetables to eggs", "Cook on both sides", "Serve with bread"],
+    "cooking_time": 15,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "eggetarian", "breakfast"]
+  },
+  {
+    "id": 60,
+    "title": "Chicken Soup",
+    "ingredients": ["chicken", "carrots", "celery", "ginger", "garlic", "peppercorns", "coriander"],
+    "instructions": ["Boil chicken with bones", "Add vegetables and spices", "Simmer for 1 hour", "Strain and serve hot", "Garnish with coriander"],
+    "cooking_time": 70,
+    "difficulty": "easy",
+    "dietary_tags": ["non-vegetarian", "comfort-food", "healthy"]
+  },
+  {
+    "id": 61,
+    "title": "Vegetable Jalfrezi",
+    "ingredients": ["mixed vegetables", "bell peppers", "onion", "tomatoes", "ginger", "green chilies", "soy sauce"],
+    "instructions": ["Stir-fry vegetables", "Make tomato-onion base", "Add sauces and spices", "Combine everything", "Serve hot"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "indo-chinese", "everyday"]
+  },
+  {
+    "id": 62,
+    "title": "Chicken Kathi Roll",
+    "ingredients": ["chicken", "flour", "onion", "capsicum", "eggs", "spices", "mayonnaise"],
+    "instructions": ["Make chicken filling", "Prepare paratha", "Spread egg on paratha", "Add chicken filling", "Roll and serve"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "kolkata", "street-food"]
+  },
+  {
+    "id": 63,
+    "title": "Dal Palak",
+    "ingredients": ["toor dal", "spinach", "onion", "tomatoes", "ginger", "garlic", "tempering"],
+    "instructions": ["Cook dal until soft", "Blanch and chop spinach", "Sauté onions and tomatoes", "Combine everything", "Temper with spices"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "healthy", "everyday"]
+  },
+  {
+    "id": 64,
+    "title": "Chicken Reshmi Kebab",
+    "ingredients": ["chicken", "cream", "cashew paste", "ginger-garlic", "cardamom", "saffron", "oil"],
+    "instructions": ["Marinate chicken in cream", "Add cashew paste", "Skewer and grill", "Baste with butter", "Serve with mint chutney"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "mughlai", "starter"]
+  },
+  {
+    "id": 65,
+    "title": "Vegetable Cutlet",
+    "ingredients": ["mixed vegetables", "potatoes", "bread crumbs", "green chilies", "coriander", "chaat masala", "oil"],
+    "instructions": ["Boil and mash vegetables", "Add spices and shape", "Coat with breadcrumbs", "Shallow fry until crisp", "Serve with ketchup"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "snack", "tea-time"]
+  },
+  {
+    "id": 66,
+    "title": "Chicken Do Pyaza",
+    "ingredients": ["chicken", "onion", "tomatoes", "ginger-garlic", "yogurt", "whole spices", "coriander"],
+    "instructions": ["Brown chicken pieces", "Sauté lots of onions", "Add tomatoes and spices", "Cook until tender", "Garnish with coriander"],
+    "cooking_time": 45,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "mughlai", "onion-rich"]
+  },
+  {
+    "id": 67,
+    "title": "Paneer Tikka Masala",
+    "ingredients": ["paneer", "bell peppers", "yogurt", "tomatoes", "cream", "tikka masala", "kasuri methi"],
+    "instructions": ["Marinate and grill paneer", "Make creamy tomato gravy", "Add grilled paneer", "Simmer with cream", "Garnish with kasuri methi"],
+    "cooking_time": 45,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "restaurant-style", "paneer"]
+  },
+  {
+    "id": 68,
+    "title": "Masala Bhindi",
+    "ingredients": ["okra", "onion", "tomatoes", "turmeric", "coriander powder", "amchur", "oil"],
+    "instructions": ["Wash and dry okra", "Sauté until crisp", "Add onions and spices", "Cook until tender", "Finish with amchur"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "north-indian", "everyday"]
+  },
+  {
+    "id": 69,
+    "title": "Chicken Kolhapuri",
+    "ingredients": ["chicken", "coconut", "poppy seeds", "kolhapuri masala", "onion", "tomatoes", "oil"],
+    "instructions": ["Make Kolhapuri masala", "Sauté onions and tomatoes", "Add masala and chicken", "Cook until tender", "Serve hot"],
+    "cooking_time": 50,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "maharashtrian", "spicy"]
+  },
+  {
+    "id": 70,
+    "title": "Vegetable Fried Rice",
+    "ingredients": ["rice", "mixed vegetables", "soy sauce", "vinegar", "spring onions", "garlic", "oil"],
+    "instructions": ["Cook and cool rice", "Stir-fry vegetables", "Add rice and sauces", "Toss well", "Garnish with spring onions"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "indo-chinese", "everyday"]
+  },
+  {
+    "id": 71,
+    "title": "Chicken Manchurian",
+    "ingredients": ["chicken", "corn flour", "soy sauce", "ginger", "garlic", "green chilies", "spring onions"],
+    "instructions": ["Make chicken balls", "Deep fry until golden", "Prepare Manchurian sauce", "Toss chicken in sauce", "Garnish with spring onions"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "indo-chinese", "starter"]
+  },
+  {
+    "id": 72,
+    "title": "Dal Baati Churma",
+    "ingredients": ["wheat flour", "toor dal", "ghee", "semolina", "jaggery", "spices", "dry fruits"],
+    "instructions": ["Make baati dough", "Bake until golden", "Prepare dal", "Make churma with jaggery", "Serve together"],
+    "cooking_time": 90,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "rajasthani", "festive"]
+  },
+  {
+    "id": 73,
+    "title": "Egg Bhurji",
+    "ingredients": ["eggs", "onion", "tomatoes", "green chilies", "turmeric", "coriander", "butter"],
+    "instructions": ["Chop vegetables finely", "Sauté in butter", "Add beaten eggs", "Scramble until cooked", "Garnish with coriander"],
+    "cooking_time": 15,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "eggetarian", "breakfast"]
+  },
+  {
+    "id": 74,
+    "title": "Chicken Tikka",
+    "ingredients": ["chicken", "yogurt", "ginger-garlic", "tandoori masala", "lemon juice", "butter", "chaat masala"],
+    "instructions": ["Marinate chicken overnight", "Skewer and grill", "Baste with butter", "Cook until charred", "Sprinkle chaat masala"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "punjabi", "starter"]
+  },
+  {
+    "id": 75,
+    "title": "Vegetable Pakora",
+    "ingredients": ["mixed vegetables", "besan", "rice flour", "carom seeds", "red chili powder", "oil", "chutney"],
+    "instructions": ["Chop vegetables", "Make besan batter", "Dip vegetables in batter", "Deep fry until golden", "Serve with chutney"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "monsoon-special", "snack"]
+  },
+  {
+    "id": 76,
+    "title": "Chicken Haleem",
+    "ingredients": ["chicken", "wheat", "lentils", "onion", "ginger-garlic", "spices", "ghee"],
+    "instructions": ["Soak wheat and lentils", "Cook with chicken", "Pound until smooth", "Slow cook for hours", "Garnish with fried onions"],
+    "cooking_time": 180,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "hyderabadi", "ramadan-special"]
+  },
+  {
+    "id": 77,
+    "title": "Paneer Pasanda",
+    "ingredients": ["paneer", "cashew paste", "cream", "onion", "tomatoes", "spices", "dry fruits"],
+    "instructions": ["Make paneer pockets", "Stuff with dry fruits", "Make rich gravy", "Simmer paneer in gravy", "Garnish with cream"],
+    "cooking_time": 50,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "mughlai", "festive"]
+  },
+  {
+    "id": 78,
+    "title": "Chicken Korma",
+    "ingredients": ["chicken", "onion", "yogurt", "cashew paste", "cream", "saffron", "garam masala"],
+    "instructions": ["Brown chicken pieces", "Make onion-yogurt base", "Add cashew paste", "Slow cook until tender", "Finish with cream"],
+    "cooking_time": 60,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "mughlai", "mild"]
+  },
+  {
+    "id": 79,
+    "title": "Aloo Puri",
+    "ingredients": ["wheat flour", "potatoes", "whole spices", "turmeric", "green chilies", "oil", "yogurt"],
+    "instructions": ["Make potato curry", "Prepare puri dough", "Roll and deep fry puris", "Serve with aloo sabzi", "Accompany with yogurt"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "breakfast", "weekend-special"]
+  },
+  {
+    "id": 80,
+    "title": "Chicken Masala",
+    "ingredients": ["chicken", "onion", "tomatoes", "ginger-garlic", "coriander powder", "garam masala", "oil"],
+    "instructions": ["Brown chicken pieces", "Sauté onions until golden", "Add tomatoes and spices", "Cook until oil separates", "Garnish with coriander"],
+    "cooking_time": 45,
+    "difficulty": "easy",
+    "dietary_tags": ["non-vegetarian", "everyday", "north-indian"]
+  },
+  {
+    "id": 81,
+    "title": "Paneer Matar",
+    "ingredients": ["paneer", "green peas", "onion", "tomatoes", "cream", "garam masala", "coriander"],
+    "instructions": ["Make onion-tomato gravy", "Add green peas", "Add paneer cubes", "Simmer with spices", "Finish with cream"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "everyday", "paneer"]
+  },
+  {
+    "id": 82,
+    "title": "Fish Pulao",
+    "ingredients": ["basmati rice", "fish", "onion", "whole spices", "ginger-garlic", "mint", "oil"],
+    "instructions": ["Marinate fish pieces", "Fry until golden", "Prepare rice with spices", "Layer fish and rice", "Dum cook for flavor"],
+    "cooking_time": 50,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "bengali", "festive"]
+  },
+  {
+    "id": 83,
+    "title": "Vegetable Kofta",
+    "ingredients": ["mixed vegetables", "paneer", "bread crumbs", "cream", "cashews", "onion", "tomatoes"],
+    "instructions": ["Make vegetable koftas", "Deep fry until golden", "Prepare rich gravy", "Simmer koftas in gravy", "Garnish with cream"],
+    "cooking_time": 60,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "mughlai", "festive"]
+  },
+  {
+    "id": 84,
+    "title": "Chicken Pulao",
+    "ingredients": ["basmati rice", "chicken", "onion", "whole spices", "ginger-garlic", "mint", "ghee"],
+    "instructions": ["Brown chicken pieces", "Sauté onions and spices", "Add rice and water", "Cook until done", "Fluff with fork"],
+    "cooking_time": 45,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "everyday", "rice"]
+  },
+  {
+    "id": 85,
+    "title": "Palak Chicken",
+    "ingredients": ["chicken", "spinach", "onion", "tomatoes", "ginger-garlic", "cream", "garam masala"],
+    "instructions": ["Blanch and puree spinach", "Brown chicken pieces", "Make onion-tomato base", "Add spinach puree", "Simmer with cream"],
+    "cooking_time": 50,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "healthy", "north-indian"]
+  },
+  {
+    "id": 86,
+    "title": "Methi Thepla",
+    "ingredients": ["wheat flour", "fenugreek leaves", "yogurt", "spices", "oil", "turmeric", "green chilies"],
+    "instructions": ["Chop fenugreek leaves", "Make dough with spices", "Roll thin theplas", "Cook on tawa", "Serve with pickle"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "gujarati", "travel-food"]
+  },
+  {
+    "id": 87,
+    "title": "Chicken Reshmi Roll",
+    "ingredients": ["chicken", "flour", "eggs", "onion", "capsicum", "mayonnaise", "spices"],
+    "instructions": ["Marinate and grill chicken", "Prepare paratha", "Spread egg on paratha", "Add chicken and vegetables", "Roll and serve hot"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "street-food", "mumbai"]
+  },
+  {
+    "id": 88,
+    "title": "Baingan Masala",
+    "ingredients": ["eggplant", "onion", "tomatoes", "ginger-garlic", "coriander powder", "garam masala", "oil"],
+    "instructions": ["Cut eggplant into pieces", "Sauté until tender", "Make onion-tomato gravy", "Add eggplant", "Simmer with spices"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "north-indian", "everyday"]
+  },
+  {
+    "id": 89,
+    "title": "Chicken Tikka Biryani",
+    "ingredients": ["basmati rice", "chicken tikka", "yogurt", "saffron", "fried onions", "biryani masala", "mint"],
+    "instructions": ["Prepare chicken tikka", "Parboil rice", "Layer tikka and rice", "Add saffron and herbs", "Dum cook for flavor"],
+    "cooking_time": 70,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "fusion", "festive"]
+  },
+  {
+    "id": 90,
+    "title": "Paneer Biryani",
+    "ingredients": ["basmati rice", "paneer", "yogurt", "saffron", "fried onions", "biryani masala", "mint"],
+    "instructions": ["Marinate paneer", "Parboil rice", "Layer paneer and rice", "Add saffron and mint", "Dum cook until perfect"],
+    "cooking_time": 60,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "festive", "hyderabadi"]
+  },
+  {
+    "id": 91,
+    "title": "Chicken Sukka",
+    "ingredients": ["chicken", "coconut", "red chilies", "coriander seeds", "peppercorns", "curry leaves", "oil"],
+    "instructions": ["Make Mangalorean masala", "Sauté chicken pieces", "Add masala and cook", "Finish with coconut", "Garnish with curry leaves"],
+    "cooking_time": 45,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "mangalorean", "spicy"]
+  },
+  {
+    "id": 92,
+    "title": "Vegetable Pulao",
+    "ingredients": ["basmati rice", "mixed vegetables", "onion", "whole spices", "ginger", "ghee", "mint"],
+    "instructions": ["Sauté vegetables", "Add whole spices", "Add rice and water", "Cook until fluffy", "Garnish with mint"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "everyday", "rice"]
+  },
+  {
+    "id": 93,
+    "title": "Chicken Kebab Roll",
+    "ingredients": ["chicken kebabs", "flour", "onion", "chutney", "lettuce", "mayonnaise", "butter"],
+    "instructions": ["Prepare chicken kebabs", "Make roomali roti", "Spread chutney", "Add kebab and vegetables", "Roll tightly and serve"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "street-food", "delhi"]
+  },
+  {
+    "id": 94,
+    "title": "Dal Dhokli",
+    "ingredients": ["wheat flour", "toor dal", "peanuts", "turmeric", "coriander", "tamarind", "jaggery"],
+    "instructions": ["Prepare dal", "Make dough for dhokli", "Cut into pieces", "Add to boiling dal", "Cook until dhokli done"],
+    "cooking_time": 45,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "gujarati", "comfort-food"]
+  },
+  {
+    "id": 95,
+    "title": "Chicken Patiala",
+    "ingredients": ["chicken", "onion", "tomatoes", "cream", "cashew paste", "garam masala", "butter"],
+    "instructions": ["Brown chicken pieces", "Make rich onion-tomato gravy", "Add cashew paste", "Simmer with cream", "Finish with butter"],
+    "cooking_time": 55,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "punjabi", "royal"]
+  },
+  {
+    "id": 96,
+    "title": "Paneer Tikka Sandwich",
+    "ingredients": ["paneer tikka", "bread", "butter", "chutney", "onion", "capsicum", "cheese"],
+    "instructions": ["Prepare paneer tikka", "Butter bread slices", "Spread chutney", "Add paneer tikka and vegetables", "Grill until golden"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "snack", "quick-meal"]
+  },
+  {
+    "id": 97,
+    "title": "Chicken Malai Tikka",
+    "ingredients": ["chicken", "cream", "cheese", "ginger-garlic", "cardamom", "saffron", "oil"],
+    "instructions": ["Marinate chicken in cream", "Add cheese and spices", "Skewer and grill", "Baste with butter", "Serve with mint chutney"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "delhi", "starter"]
+  },
+  {
+    "id": 98,
+    "title": "Vegetable Biryani",
+    "ingredients": ["basmati rice", "mixed vegetables", "yogurt", "saffron", "fried onions", "biryani masala", "mint"],
+    "instructions": ["Parboil rice", "Marinate vegetables", "Layer rice and vegetables", "Add saffron milk", "Dum cook for flavor"],
+    "cooking_time": 60,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "festive", "south-indian"]
+  },
+  {
+    "id": 99,
+    "title": "Chicken Handi",
+    "ingredients": ["chicken", "onion", "tomatoes", "cream", "butter", "ginger-garlic", "handi masala"],
+    "instructions": ["Brown chicken pieces", "Make onion-tomato gravy", "Add handi masala", "Simmer with cream", "Finish with butter"],
+    "cooking_time": 50,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "restaurant-style", "creamy"]
+  },
+  {
+    "id": 100,
+    "title": "Paneer Lababdar",
+    "ingredients": ["paneer", "onion", "tomatoes", "cashew paste", "cream", "butter", "garam masala"],
+    "instructions": ["Make onion-tomato paste", "Add cashew paste", "Add paneer cubes", "Simmer with cream", "Finish with butter"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "restaurant-style", "paneer"]
+  },
+  {
+    "id": 101,
+    "title": "Chicken Tikka Lababdar",
+    "ingredients": ["chicken tikka", "onion", "tomatoes", "cashew paste", "cream", "butter", "garam masala"],
+    "instructions": ["Prepare chicken tikka", "Make rich gravy", "Add chicken tikka", "Simmer with cream", "Finish with butter"],
+    "cooking_time": 55,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "restaurant-style", "creamy"]
+  },
+  {
+    "id": 102,
+    "title": "Vegetable Pulao",
+    "ingredients": ["basmati rice", "mixed vegetables", "onion", "whole spices", "ginger", "ghee", "coriander"],
+    "instructions": ["Sauté vegetables", "Add whole spices", "Add rice and water", "Cook until done", "Garnish with coriander"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "everyday", "rice"]
+  },
+  {
+    "id": 103,
+    "title": "Chicken Korma Biryani",
+    "ingredients": ["basmati rice", "chicken korma", "saffron", "fried onions", "biryani masala", "mint", "ghee"],
+    "instructions": ["Prepare chicken korma", "Parboil rice", "Layer korma and rice", "Add saffron and herbs", "Dum cook for flavor"],
+    "cooking_time": 75,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "festive", "lucknowi"]
+  },
+  {
+    "id": 104,
+    "title": "Paneer Butter Masala Biryani",
+    "ingredients": ["basmati rice", "paneer butter masala", "saffron", "fried onions", "biryani masala", "mint", "ghee"],
+    "instructions": ["Prepare paneer butter masala", "Parboil rice", "Layer paneer and rice", "Add saffron and mint", "Dum cook until perfect"],
+    "cooking_time": 70,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "fusion", "festive"]
+  },
+  {
+    "id": 105,
+    "title": "Chicken Tikka Masala Biryani",
+    "ingredients": ["basmati rice", "chicken tikka masala", "saffron", "fried onions", "biryani masala", "mint", "ghee"],
+    "instructions": ["Prepare chicken tikka masala", "Parboil rice", "Layer tikka masala and rice", "Add saffron and herbs", "Dum cook for flavor"],
+    "cooking_time": 75,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "fusion", "festive"]
+  },
+  {
+    "id": 106,
+    "title": "Vegetable Fried Rice",
+    "ingredients": ["basmati rice", "mixed vegetables", "soy sauce", "vinegar", "spring onions", "garlic", "oil"],
+    "instructions": ["Cook and cool rice", "Stir-fry vegetables", "Add rice and sauces", "Toss well", "Garnish with spring onions"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "indo-chinese", "everyday"]
+  },
+  {
+    "id": 107,
+    "title": "Chicken Fried Rice",
+    "ingredients": ["basmati rice", "chicken", "mixed vegetables", "soy sauce", "vinegar", "spring onions", "oil"],
+    "instructions": ["Cook and cool rice", "Stir-fry chicken and vegetables", "Add rice and sauces", "Toss well", "Garnish with spring onions"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["non-vegetarian", "indo-chinese", "everyday"]
+  },
+  {
+    "id": 108,
+    "title": "Egg Fried Rice",
+    "ingredients": ["basmati rice", "eggs", "mixed vegetables", "soy sauce", "vinegar", "spring onions", "oil"],
+    "instructions": ["Cook and cool rice", "Scramble eggs and set aside", "Stir-fry vegetables", "Add rice, eggs and sauces", "Garnish with spring onions"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "indo-chinese", "everyday"]
+  },
+  {
+    "id": 109,
+    "title": "Paneer Fried Rice",
+    "ingredients": ["basmati rice", "paneer", "mixed vegetables", "soy sauce", "vinegar", "spring onions", "oil"],
+    "instructions": ["Cook and cool rice", "Stir-fry paneer and vegetables", "Add rice and sauces", "Toss well", "Garnish with spring onions"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "indo-chinese", "everyday"]
+  },
+  {
+    "id": 110,
+    "title": "Mushroom Fried Rice",
+    "ingredients": ["basmati rice", "mushrooms", "mixed vegetables", "soy sauce", "vinegar", "spring onions", "oil"],
+    "instructions": ["Cook and cool rice", "Stir-fry mushrooms and vegetables", "Add rice and sauces", "Toss well", "Garnish with spring onions"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "indo-chinese", "everyday"]
+  },
+  {
+    "id": 111,
+    "title": "Vegetable Noodles",
+    "ingredients": ["noodles", "mixed vegetables", "soy sauce", "vinegar", "spring onions", "garlic", "oil"],
+    "instructions": ["Boil noodles al dente", "Stir-fry vegetables", "Add noodles and sauces", "Toss well", "Garnish with spring onions"],
+    "cooking_time": 20,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "indo-chinese", "everyday"]
+  },
+  {
+    "id": 112,
+    "title": "Chicken Noodles",
+    "ingredients": ["noodles", "chicken", "mixed vegetables", "soy sauce", "vinegar", "spring onions", "oil"],
+    "instructions": ["Boil noodles al dente", "Stir-fry chicken and vegetables", "Add noodles and sauces", "Toss well", "Garnish with spring onions"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["non-vegetarian", "indo-chinese", "everyday"]
+  },
+  {
+    "id": 113,
+    "title": "Egg Noodles",
+    "ingredients": ["noodles", "eggs", "mixed vegetables", "soy sauce", "vinegar", "spring onions", "oil"],
+    "instructions": ["Boil noodles al dente", "Scramble eggs and set aside", "Stir-fry vegetables", "Add noodles, eggs and sauces", "Garnish with spring onions"],
+    "cooking_time": 20,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "indo-chinese", "everyday"]
+  },
+  {
+    "id": 114,
+    "title": "Paneer Noodles",
+    "ingredients": ["noodles", "paneer", "mixed vegetables", "soy sauce", "vinegar", "spring onions", "oil"],
+    "instructions": ["Boil noodles al dente", "Stir-fry paneer and vegetables", "Add noodles and sauces", "Toss well", "Garnish with spring onions"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "indo-chinese", "everyday"]
+  },
+  {
+    "id": 115,
+    "title": "Mushroom Noodles",
+    "ingredients": ["noodles", "mushrooms", "mixed vegetables", "soy sauce", "vinegar", "spring onions", "oil"],
+    "instructions": ["Boil noodles al dente", "Stir-fry mushrooms and vegetables", "Add noodles and sauces", "Toss well", "Garnish with spring onions"],
+    "cooking_time": 20,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "indo-chinese", "everyday"]
+  },
+  {
+    "id": 116,
+    "title": "Vegetable Manchurian",
+    "ingredients": ["mixed vegetables", "cabbage", "carrot", "beans", "corn flour", "soy sauce", "ginger-garlic"],
+    "instructions": ["Grate and squeeze vegetables", "Make vegetable balls", "Deep fry until golden", "Prepare Manchurian sauce", "Toss balls in sauce"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "indo-chinese", "starter"]
+  },
+  {
+    "id": 117,
+    "title": "Gobi Manchurian",
+    "ingredients": ["cauliflower", "corn flour", "soy sauce", "ginger", "garlic", "green chilies", "spring onions"],
+    "instructions": ["Make cauliflower florets", "Batter and deep fry", "Make Manchurian sauce", "Toss cauliflower in sauce", "Garnish with spring onions"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "indo-chinese", "starter"]
+  },
+  {
+    "id": 118,
+    "title": "Chicken Manchurian",
+    "ingredients": ["chicken", "corn flour", "soy sauce", "ginger", "garlic", "green chilies", "spring onions"],
+    "instructions": ["Make chicken balls", "Deep fry until golden", "Prepare Manchurian sauce", "Toss chicken in sauce", "Garnish with spring onions"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "indo-chinese", "starter"]
+  },
+  {
+    "id": 119,
+    "title": "Paneer Manchurian",
+    "ingredients": ["paneer", "corn flour", "soy sauce", "ginger", "garlic", "green chilies", "spring onions"],
+    "instructions": ["Make paneer cubes", "Batter and deep fry", "Make Manchurian sauce", "Toss paneer in sauce", "Garnish with spring onions"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "indo-chinese", "starter"]
+  },
+  {
+    "id": 120,
+    "title": "Mushroom Manchurian",
+    "ingredients": ["mushrooms", "corn flour", "soy sauce", "ginger", "garlic", "green chilies", "spring onions"],
+    "instructions": ["Clean and prepare mushrooms", "Batter and deep fry", "Make Manchurian sauce", "Toss mushrooms in sauce", "Garnish with spring onions"],
+    "cooking_time": 25,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "indo-chinese", "starter"]
+  },
+  {
+    "id": 121,
+    "title": "Thai Green Curry",
+    "ingredients": ["chicken", "green curry paste", "coconut milk", "thai eggplant", "basil", "fish sauce", "kaffir lime leaves"],
+    "instructions": ["Sauté curry paste in oil", "Add coconut milk and bring to simmer", "Add chicken and vegetables", "Cook until chicken is done", "Add basil and lime leaves"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "thai", "gluten-free"],
+    "cuisine": "thai"
+  },
+  {
+    "id": 122,
+    "title": "Mediterranean Quinoa Bowl",
+    "ingredients": ["quinoa", "chickpeas", "cucumber", "tomatoes", "feta", "olives", "lemon vinaigrette"],
+    "instructions": ["Cook quinoa according to package", "Chop vegetables", "Mix all ingredients", "Dress with vinaigrette", "Top with feta and olives"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "mediterranean", "high-protein", "gluten-free"],
+    "cuisine": "mediterranean"
+  },
+  {
+    "id": 123,
+    "title": "Japanese Ramen",
+    "ingredients": ["ramen noodles", "pork belly", "soft-boiled eggs", "bok choy", "mushrooms", "soy sauce", "miso paste"],
+    "instructions": ["Prepare broth with miso and soy sauce", "Cook noodles separately", "Slice pork belly and soft-boil eggs", "Assemble bowls with noodles and toppings", "Pour hot broth over"],
+    "cooking_time": 45,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "japanese", "comfort-food"],
+    "cuisine": "japanese"
+  },
+  {
+    "id": 124,
+    "title": "Vegan Buddha Bowl",
+    "ingredients": ["brown rice", "tofu", "avocado", "sweet potato", "kale", "tahini dressing", "sesame seeds"],
+    "instructions": ["Roast sweet potato cubes", "Pan-fry tofu until crispy", "Massage kale with dressing", "Assemble bowl with rice and toppings", "Drizzle with tahini sauce"],
+    "cooking_time": 40,
+    "difficulty": "easy",
+    "dietary_tags": ["vegan", "healthy", "high-fiber", "gluten-free"],
+    "cuisine": "fusion"
+  },
+  {
+    "id": 125,
+    "title": "Keto Cauliflower Mac and Cheese",
+    "ingredients": ["cauliflower", "cheddar cheese", "heavy cream", "cream cheese", "bacon", "pork rinds", "butter"],
+    "instructions": ["Steam cauliflower florets", "Make cheese sauce with cream and cheeses", "Mix cauliflower with sauce", "Top with bacon and pork rinds", "Bake until bubbly"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["keto", "low-carb", "gluten-free", "high-fat"],
+    "cuisine": "american"
+  },
+  {
+    "id": 126,
+    "title": "Mexican Chicken Fajitas",
+    "ingredients": ["chicken breast", "bell peppers", "onion", "fajita seasoning", "tortillas", "sour cream", "guacamole"],
+    "instructions": ["Slice chicken and vegetables", "Sauté with fajita seasoning", "Warm tortillas", "Serve with sour cream and guacamole", "Assemble fajitas at table"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["non-vegetarian", "mexican", "high-protein"],
+    "cuisine": "mexican"
+  },
+  {
+    "id": 127,
+    "title": "Paleo Turkey Meatballs",
+    "ingredients": ["ground turkey", "almond flour", "egg", "spinach", "garlic", "marinara sauce", "zucchini noodles"],
+    "instructions": ["Mix turkey with almond flour and egg", "Form into meatballs", "Bake until cooked through", "Heat marinara sauce", "Serve with zucchini noodles"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["paleo", "gluten-free", "low-carb", "high-protein"],
+    "cuisine": "american"
+  },
+  {
+    "id": 128,
+    "title": "Korean Bibimbap",
+    "ingredients": ["rice", "beef", "carrots", "spinach", "bean sprouts", "fried egg", "gochujang"],
+    "instructions": ["Prepare and sauté each vegetable separately", "Marinate and cook beef", "Fry egg sunny-side up", "Arrange over rice in bowl", "Serve with gochujang sauce"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "korean", "balanced-meal"],
+    "cuisine": "korean"
+  },
+  {
+    "id": 129,
+    "title": "Gluten-Free Pizza",
+    "ingredients": ["gluten-free flour", "mozzarella", "tomato sauce", "pepperoni", "mushrooms", "bell peppers", "olives"],
+    "instructions": ["Prepare gluten-free dough", "Roll out and pre-bake crust", "Add sauce and toppings", "Bake until cheese melts", "Slice and serve hot"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["gluten-free", "vegetarian", "comfort-food"],
+    "cuisine": "italian"
+  },
+  {
+    "id": 130,
+    "title": "Moroccan Tagine",
+    "ingredients": ["chicken", "apricots", "almonds", "couscous", "onion", "ginger", "ras el hanout"],
+    "instructions": ["Brown chicken pieces", "Sauté onions and spices", "Add chicken and dried fruits", "Simmer until tender", "Serve over couscous"],
+    "cooking_time": 50,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "moroccan", "gluten-free"],
+    "cuisine": "moroccan"
+  },
+  {
+    "id": 131,
+    "title": "Dairy-Free Alfredo Pasta",
+    "ingredients": ["fettuccine", "cashews", "nutritional yeast", "garlic", "almond milk", "mushrooms", "broccoli"],
+    "instructions": ["Cook pasta al dente", "Blend cashews with nutritional yeast and garlic", "Sauté vegetables", "Combine sauce with pasta", "Serve immediately"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["dairy-free", "vegan", "comfort-food"],
+    "cuisine": "italian"
+  },
+  {
+    "id": 132,
+    "title": "Vietnamese Pho",
+    "ingredients": ["beef broth", "rice noodles", "beef sirloin", "bean sprouts", "thai basil", "lime", "star anise"],
+    "instructions": ["Simmer broth with spices for hours", "Slice beef thinly", "Cook rice noodles", "Assemble bowls with noodles and beef", "Pour hot broth over to cook beef"],
+    "cooking_time": 180,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "vietnamese", "gluten-free"],
+    "cuisine": "vietnamese"
+  },
+  {
+    "id": 133,
+    "title": "Greek Spanakopita",
+    "ingredients": ["phyllo dough", "spinach", "feta", "eggs", "dill", "onion", "butter"],
+    "instructions": ["Sauté spinach and onions", "Mix with feta and eggs", "Layer phyllo with butter", "Add spinach filling", "Bake until golden"],
+    "cooking_time": 45,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "greek", "mediterranean"],
+    "cuisine": "greek"
+  },
+  {
+    "id": 134,
+    "title": "Low-Carb Zucchini Lasagna",
+    "ingredients": ["zucchini", "ground beef", "ricotta", "mozzarella", "marinara", "egg", "parmesan"],
+    "instructions": ["Slice zucchini lengthwise", "Brown ground beef", "Layer zucchini instead of pasta", "Add cheeses and sauce", "Bake until bubbly"],
+    "cooking_time": 55,
+    "difficulty": "medium",
+    "dietary_tags": ["low-carb", "keto", "gluten-free", "high-protein"],
+    "cuisine": "italian"
+  },
+  {
+    "id": 135,
+    "title": "Ethiopian Lentil Wat",
+    "ingredients": ["red lentils", "onion", "berbere spice", "garlic", "ginger", "tomato paste", "niter kibbeh"],
+    "instructions": ["Sauté onions until caramelized", "Add berbere and tomato paste", "Add lentils and water", "Simmer until lentils break down", "Serve with injera"],
+    "cooking_time": 45,
+    "difficulty": "medium",
+    "dietary_tags": ["vegan", "ethiopian", "high-fiber", "gluten-free"],
+    "cuisine": "ethiopian"
+  },
+  {
+    "id": 136,
+    "title": "Pescatarian Tuna Poke Bowl",
+    "ingredients": ["sushi-grade tuna", "rice", "avocado", "cucumber", "edamame", "soy sauce", "sesame oil"],
+    "instructions": ["Cube tuna and marinate in soy sauce", "Cook sushi rice", "Chop vegetables", "Assemble bowl with rice and toppings", "Drizzle with sesame oil"],
+    "cooking_time": 20,
+    "difficulty": "easy",
+    "dietary_tags": ["pescatarian", "japanese", "high-protein", "gluten-free"],
+    "cuisine": "hawaiian"
+  },
+  {
+    "id": 137,
+    "title": "Whole30 Compliant Steak Salad",
+    "ingredients": ["sirloin steak", "mixed greens", "sweet potato", "avocado", "walnuts", "balsamic vinegar", "olive oil"],
+    "instructions": ["Season and grill steak", "Roast sweet potato cubes", "Make vinaigrette without sugar", "Assemble salad with greens", "Top with sliced steak"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["whole30", "paleo", "gluten-free", "dairy-free"],
+    "cuisine": "american"
+  },
+  {
+    "id": 138,
+    "title": "Lebanese Falafel",
+    "ingredients": ["chickpeas", "parsley", "cilantro", "onion", "garlic", "cumin", "baking soda"],
+    "instructions": ["Soak chickpeas overnight", "Blend with herbs and spices", "Form into balls or patties", "Deep fry until golden", "Serve with tahini sauce"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["vegan", "lebanese", "high-fiber", "gluten-free"],
+    "cuisine": "lebanese"
+  },
+  {
+    "id": 139,
+    "title": "Sugar-Free Chocolate Avocado Mousse",
+    "ingredients": ["avocado", "cocoa powder", "stevia", "vanilla", "almond milk", "berries", "coconut cream"],
+    "instructions": ["Blend avocado until smooth", "Add cocoa and sweetener", "Adjust consistency with almond milk", "Chill for 2 hours", "Top with berries and coconut cream"],
+    "cooking_time": 10,
+    "difficulty": "easy",
+    "dietary_tags": ["sugar-free", "vegan", "keto", "paleo", "gluten-free"],
+    "cuisine": "dessert"
+  },
+  {
+    "id": 140,
+    "title": "Portuguese Peri Peri Chicken",
+    "ingredients": ["chicken", "peri peri sauce", "lemon", "garlic", "paprika", "potatoes", "bell peppers"],
+    "instructions": ["Marinate chicken in peri peri sauce", "Roast with potatoes and peppers", "Baste with sauce while cooking", "Grill for charred effect", "Serve with lemon wedges"],
+    "cooking_time": 50,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "portuguese", "gluten-free", "dairy-free"],
+    "cuisine": "portuguese"
+  },
+  {
+    "id": 141,
+    "title": "Raw Vegan Zucchini Pasta",
+    "ingredients": ["zucchini", "basil", "pine nuts", "nutritional yeast", "garlic", "olive oil", "cherry tomatoes"],
+    "instructions": ["Spiralize zucchini into noodles", "Make pesto in food processor", "Toss zucchini with pesto", "Add cherry tomatoes", "Serve immediately"],
+    "cooking_time": 15,
+    "difficulty": "easy",
+    "dietary_tags": ["raw", "vegan", "gluten-free", "paleo"],
+    "cuisine": "italian"
+  },
+  {
+    "id": 142,
+    "title": "French Coq au Vin",
+    "ingredients": ["chicken", "red wine", "bacon", "mushrooms", "pearl onions", "thyme", "bay leaves"],
+    "instructions": ["Brown chicken and bacon", "Sauté mushrooms and onions", "Deglaze with red wine", "Simmer for 1-2 hours", "Serve with crusty bread"],
+    "cooking_time": 120,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "french", "comfort-food"],
+    "cuisine": "french"
+  },
+  {
+    "id": 143,
+    "title": "Nut-Free School Lunch Wraps",
+    "ingredients": ["tortillas", "turkey", "cream cheese", "spinach", "carrots", "sunflower seeds", "hummus"],
+    "instructions": ["Spread cream cheese on tortilla", "Layer turkey and vegetables", "Add sunflower seeds for crunch", "Roll tightly and slice", "Pack with hummus dip"],
+    "cooking_time": 15,
+    "difficulty": "easy",
+    "dietary_tags": ["nut-free", "school-safe", "high-protein"],
+    "cuisine": "american"
+  },
+  {
+    "id": 144,
+    "title": "Soy-Free Teriyaki Salmon",
+    "ingredients": ["salmon", "coconut aminos", "honey", "ginger", "garlic", "sesame oil", "broccoli"],
+    "instructions": ["Make teriyaki sauce with coconut aminos", "Marinate salmon for 30 minutes", "Bake or pan-sear salmon", "Steam broccoli", "Serve with cauliflower rice"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["soy-free", "pescatarian", "gluten-free", "high-protein"],
+    "cuisine": "japanese"
+  },
+  {
+    "id": 145,
+    "title": "Egyptian Koshari",
+    "ingredients": ["rice", "lentils", "macaroni", "chickpeas", "tomato sauce", "crispy onions", "cumin"],
+    "instructions": ["Cook rice, lentils, and pasta separately", "Make spicy tomato sauce", "Fry onions until crispy", "Layer ingredients in bowl", "Top with sauce and onions"],
+    "cooking_time": 50,
+    "difficulty": "medium",
+    "dietary_tags": ["vegan", "egyptian", "high-fiber", "comfort-food"],
+    "cuisine": "egyptian"
+  },
+  {
+    "id": 146,
+    "title": "Low-FODMAP Chicken Stir Fry",
+    "ingredients": ["chicken", "bok choy", "carrots", "bell peppers", "ginger", "green onion tops", "gluten-free soy sauce"],
+    "instructions": ["Use low-FODMAP vegetables only", "Stir-fry chicken until cooked", "Add vegetables and ginger", "Use garlic-infused oil for flavor", "Serve with rice"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["low-fodmap", "gluten-free", "ibs-friendly", "high-protein"],
+    "cuisine": "asian"
+  },
+  {
+    "id": 147,
+    "title": "Brazilian Feijoada",
+    "ingredients": ["black beans", "pork shoulder", "sausage", "bacon", "onion", "garlic", "bay leaves"],
+    "instructions": ["Soak beans overnight", "Brown all meats", "Sauté onions and garlic", "Simmer for 2-3 hours until tender", "Serve with rice and orange slices"],
+    "cooking_time": 180,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "brazilian", "comfort-food"],
+    "cuisine": "brazilian"
+  },
+  {
+    "id": 148,
+    "title": "Anti-Inflammatory Turmeric Soup",
+    "ingredients": ["chicken broth", "turmeric", "ginger", "garlic", "coconut milk", "kale", "lemongrass"],
+    "instructions": ["Sauté ginger and garlic", "Add turmeric and broth", "Simmer with lemongrass", "Add coconut milk and kale", "Serve with lemon wedge"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["anti-inflammatory", "gluten-free", "dairy-free", "immune-boosting"],
+    "cuisine": "fusion"
+  },
+  {
+    "id": 149,
+    "title": "Spanish Paella",
+    "ingredients": ["bomba rice", "chicken", "shrimp", "mussels", "saffron", "paprika", "green beans"],
+    "instructions": ["Brown chicken in paella pan", "Add rice and toast", "Add broth and saffron", "Arrange seafood on top", "Cook without stirring"],
+    "cooking_time": 45,
+    "difficulty": "hard",
+    "dietary_tags": ["pescatarian", "spanish", "gluten-free"],
+    "cuisine": "spanish"
+  },
+  {
+    "id": 150,
+    "title": "DASH Diet Approved Salad",
+    "ingredients": ["mixed greens", "grilled chicken", "walnuts", "berries", "goat cheese", "olive oil", "lemon juice"],
+    "instructions": ["Grill chicken breast", "Assemble greens with berries", "Add walnuts and goat cheese", "Make simple vinaigrette", "Top with sliced chicken"],
+    "cooking_time": 20,
+    "difficulty": "easy",
+    "dietary_tags": ["dash-diet", "heart-healthy", "low-sodium", "high-protein"],
+    "cuisine": "american"
+  },
+  {
+    "id": 151,
+    "title": "Peruvian Ceviche",
+    "ingredients": ["white fish", "lime juice", "red onion", "aji amarillo", "cilantro", "sweet potato", "corn"],
+    "instructions": ["Cube fish and marinate in lime juice", "The acid 'cooks' the fish", "Add onions and chili", "Serve with sweet potato and corn", "Garnish with cilantro"],
+    "cooking_time": 20,
+    "difficulty": "easy",
+    "dietary_tags": ["pescatarian", "peruvian", "gluten-free", "dairy-free"],
+    "cuisine": "peruvian"
+  },
+  {
+    "id": 152,
+    "title": "Low-Oxalate Smoothie Bowl",
+    "ingredients": ["papaya", "blueberries", "coconut yogurt", "chia seeds", "hemp seeds", "almond milk", "vanilla"],
+    "instructions": ["Blend fruits with coconut yogurt", "Use low-oxalate fruits only", "Pour into bowl", "Top with seeds", "Serve immediately"],
+    "cooking_time": 10,
+    "difficulty": "easy",
+    "dietary_tags": ["low-oxalate", "vegan", "gluten-free", "kidney-friendly"],
+    "cuisine": "breakfast"
+  },
+  {
+    "id": 153,
+    "title": "Turkish Lamb Kebabs",
+    "ingredients": ["lamb", "onion", "parsley", "sumac", "paprika", "yogurt", "pita bread"],
+    "instructions": ["Grind lamb with onions", "Add spices and herbs", "Form around skewers", "Grill until cooked through", "Serve with yogurt and pita"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "turkish", "high-protein", "gluten-free"],
+    "cuisine": "turkish"
+  },
+  {
+    "id": 154,
+    "title": "Macrobiotic Brown Rice Bowl",
+    "ingredients": ["brown rice", "adzuki beans", "kabocha squash", "kale", "seaweed", "miso", "sesame seeds"],
+    "instructions": ["Pressure cook brown rice", "Steam squash and kale", "Make miso soup", "Assemble bowl with all components", "Garnish with seaweed and sesame"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["macrobiotic", "vegan", "whole-foods", "alkaline"],
+    "cuisine": "japanese"
+  },
+  {
+    "id": 155,
+    "title": "Cuban Black Beans and Rice",
+    "ingredients": ["black beans", "rice", "green pepper", "onion", "garlic", "cumin", "oregano"],
+    "instructions": ["Sauté peppers and onions", "Add spices and beans", "Simmer until flavors meld", "Cook rice separately", "Serve beans over rice"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["vegan", "cuban", "high-fiber", "gluten-free"],
+    "cuisine": "cuban"
+  },
+  {
+    "id": 156,
+    "title": "AIP Compliant Salmon",
+    "ingredients": ["salmon", "sweet potato", "broccoli", "coconut aminos", "ginger", "garlic oil", "green onions"],
+    "instructions": ["Marinate salmon in coconut aminos", "Roast sweet potato and broccoli", "Bake salmon until flaky", "Use garlic-infused oil only", "Garnish with green onions"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["aip", "autoimmune-protocol", "anti-inflammatory", "pescatarian"],
+    "cuisine": "fusion"
+  },
+  {
+    "id": 157,
+    "title": "Polish Pierogi",
+    "ingredients": ["flour", "potatoes", "cheese", "onion", "butter", "sour cream", "eggs"],
+    "instructions": ["Make dough and let rest", "Prepare potato and cheese filling", "Fill and seal pierogi", "Boil until they float", "Pan fry with onions and butter"],
+    "cooking_time": 60,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "polish", "comfort-food"],
+    "cuisine": "polish"
+  },
+  {
+    "id": 158,
+    "title": "Low-Histamine Chicken Soup",
+    "ingredients": ["chicken", "carrots", "zucchini", "sweet potato", "fresh herbs", "salt", "olive oil"],
+    "instructions": ["Use fresh ingredients only", "Avoid tomatoes and spinach", "Simmer chicken with vegetables", "Use fresh herbs for flavor", "Strain for clear broth"],
+    "cooking_time": 45,
+    "difficulty": "easy",
+    "dietary_tags": ["low-histamine", "gluten-free", "dairy-free", "mcas-friendly"],
+    "cuisine": "soup"
+  },
+  {
+    "id": 159,
+    "title": "Jamaican Jerk Chicken",
+    "ingredients": ["chicken", "scotch bonnet", "allspice", "thyme", "ginger", "soy sauce", "brown sugar"],
+    "instructions": ["Make jerk marinade in blender", "Marinate chicken overnight", "Grill over pimento wood", "Baste with marinade", "Serve with rice and peas"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "jamaican", "gluten-free"],
+    "cuisine": "jamaican"
+  },
+  {
+    "id": 160,
+    "title": "Low-Fat Turkey Chili",
+    "ingredients": ["ground turkey", "kidney beans", "tomatoes", "bell peppers", "chili powder", "cumin", "corn"],
+    "instructions": ["Brown turkey without oil", "Add vegetables and spices", "Simmer for 30 minutes", "Add beans at the end", "Serve with minimal toppings"],
+    "cooking_time": 40,
+    "difficulty": "easy",
+    "dietary_tags": ["low-fat", "high-protein", "heart-healthy", "gluten-free"],
+    "cuisine": "american"
+  },
+  {
+    "id": 161,
+    "title": "Swedish Meatballs",
+    "ingredients": ["ground beef", "pork", "breadcrumbs", "cream", "lingonberry jam", "allspice", "nutmeg"],
+    "instructions": ["Mix meats with breadcrumbs", "Add spices and cream", "Form into small balls", "Brown and simmer in sauce", "Serve with jam and potatoes"],
+    "cooking_time": 45,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "swedish", "comfort-food"],
+    "cuisine": "swedish"
+  },
+  {
+    "id": 162,
+    "title": "Low-Sodium Heart Healthy Salad",
+    "ingredients": ["spinach", "salmon", "avocado", "almonds", "berries", "flax oil", "lemon juice"],
+    "instructions": ["Grill or bake salmon", "Assemble spinach with berries", "Add avocado and almonds", "Make dressing with flax oil", "Top with flaked salmon"],
+    "cooking_time": 20,
+    "difficulty": "easy",
+    "dietary_tags": ["low-sodium", "heart-healthy", "omega-3", "pescatarian"],
+    "cuisine": "american"
+  },
+  {
+    "id": 163,
+    "title": "Filipino Adobo",
+    "ingredients": ["chicken", "soy sauce", "vinegar", "garlic", "bay leaves", "peppercorns", "coconut milk"],
+    "instructions": ["Marinate chicken in soy and vinegar", "Brown chicken pieces", "Add marinade and spices", "Simmer until tender", "Reduce sauce until thick"],
+    "cooking_time": 50,
+    "difficulty": "easy",
+    "dietary_tags": ["non-vegetarian", "filipino", "gluten-free"],
+    "cuisine": "filipino"
+  },
+  {
+    "id": 164,
+    "title": "Low-Carb Eggplant Pizza",
+    "ingredients": ["eggplant", "mozzarella", "tomato sauce", "pepperoni", "mushrooms", "olives", "oregano"],
+    "instructions": ["Slice eggplant into rounds", "Roast until tender", "Top with sauce and toppings", "Bake until cheese melts", "Broil for bubbly top"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["low-carb", "keto", "gluten-free", "vegetarian"],
+    "cuisine": "italian"
+  },
+  {
+    "id": 165,
+    "title": "Russian Borscht",
+    "ingredients": ["beets", "cabbage", "potatoes", "carrots", "beef", "sour cream", "dill"],
+    "instructions": ["Roast beets for sweetness", "Sauté vegetables", "Add beef and broth", "Simmer until tender", "Serve with sour cream and dill"],
+    "cooking_time": 60,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "russian", "high-fiber", "comfort-food"],
+    "cuisine": "russian"
+  },
+  {
+    "id": 166,
+    "title": "Low-Glycemic Lentil Stew",
+    "ingredients": ["lentils", "celery", "carrots", "kale", "turmeric", "cumin", "vegetable broth"],
+    "instructions": ["Sauté vegetables until soft", "Add lentils and spices", "Add broth and simmer", "Add kale at the end", "Cook until lentils tender"],
+    "cooking_time": 45,
+    "difficulty": "easy",
+    "dietary_tags": ["low-glycemic", "vegan", "diabetic-friendly", "high-fiber"],
+    "cuisine": "soup"
+  },
+  {
+    "id": 167,
+    "title": "Argentinian Chimichurri Steak",
+    "ingredients": ["skirt steak", "parsley", "oregano", "garlic", "red wine vinegar", "olive oil", "red pepper flakes"],
+    "instructions": ["Make chimichurri sauce in food processor", "Grill steak to preferred doneness", "Let rest before slicing", "Serve with chimichurri sauce", "Accompany with roasted vegetables"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["non-vegetarian", "argentinian", "gluten-free", "high-protein"],
+    "cuisine": "argentinian"
+  },
+  {
+    "id": 168,
+    "title": "Low-Phosphorus Renal Diet Fish",
+    "ingredients": ["white fish", "lemon", "dill", "green beans", "rice", "olive oil", "herbs"],
+    "instructions": ["Choose low-phosphorus fish", "Bake with lemon and herbs", "Steam green beans", "Cook white rice", "Avoid dairy and nuts"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["renal-diet", "kidney-friendly", "low-phosphorus", "pescatarian"],
+    "cuisine": "american"
+  },
+  {
+    "id": 169,
+    "title": "German Sauerbraten",
+    "ingredients": ["beef roast", "red wine vinegar", "gingersnaps", "onion", "carrots", "bay leaves", "juniper berries"],
+    "instructions": ["Marinate beef for 3-5 days", "Brown marinated beef", "Add vegetables and marinade", "Simmer for 3-4 hours", "Thicken sauce with gingersnaps"],
+    "cooking_time": 240,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "german", "comfort-food"],
+    "cuisine": "german"
+  },
+  {
+    "id": 170,
+    "title": "Low-Tyramine Migraine Diet Salad",
+    "ingredients": ["fresh chicken", "cucumber", "zucchini", "carrots", "fresh herbs", "olive oil", "lemon juice"],
+    "instructions": ["Use only fresh ingredients", "Avoid aged cheeses and meats", "Grill chicken fresh", "Chop raw vegetables", "Make simple dressing"],
+    "cooking_time": 20,
+    "difficulty": "easy",
+    "dietary_tags": ["low-tyramine", "migraine-diet", "fresh-foods", "gluten-free"],
+    "cuisine": "american"
+  },
+  {
+    "id": 171,
+    "title": "Thai Papaya Salad",
+    "ingredients": ["green papaya", "green beans", "tomatoes", "peanuts", "lime", "fish sauce", "chilies"],
+    "instructions": ["Shred green papaya", "Pound dressing in mortar", "Add vegetables and pound lightly", "Adjust sweet-sour-spicy balance", "Garnish with peanuts"],
+    "cooking_time": 20,
+    "difficulty": "medium",
+    "dietary_tags": ["vegan", "thai", "gluten-free", "low-calorie"],
+    "cuisine": "thai"
+  },
+  {
+    "id": 172,
+    "title": "Low-Residue Diet Chicken",
+    "ingredients": ["chicken breast", "white rice", "carrots", "zucchini", "salt", "pepper", "olive oil"],
+    "instructions": ["Bake or poach chicken", "Cook well-cooked white rice", "Peel and cook vegetables until soft", "Avoid skins and seeds", "Keep seasonings simple"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["low-residue", "digestive-health", "post-surgery", "bland-diet"],
+    "cuisine": "american"
+  },
+  {
+    "id": 173,
+    "title": "Hungarian Goulash",
+    "ingredients": ["beef", "onion", "paprika", "caraway", "potatoes", "tomatoes", "bell peppers"],
+    "instructions": ["Brown beef cubes", "Sauté onions until soft", "Add paprika and caraway", "Add vegetables and broth", "Simmer until beef tender"],
+    "cooking_time": 120,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "hungarian", "comfort-food"],
+    "cuisine": "hungarian"
+  },
+  {
+    "id": 174,
+    "title": "Low-Salicylate Diet Meal",
+    "ingredients": ["cabbage", "pears", "green beans", "chicken", "rice", "salt", "leek"],
+    "instructions": ["Choose low-salicylate foods only", "Boil or steam vegetables", "Bake chicken without spices", "Cook white rice", "Use minimal seasonings"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["low-salicylate", "allergy-friendly", "elimination-diet"],
+    "cuisine": "bland"
+  },
+  {
+    "id": 175,
+    "title": "Malaysian Laksa",
+    "ingredients": ["rice noodles", "shrimp", "tofu", "laksa paste", "coconut milk", "bean sprouts", "lime"],
+    "instructions": ["Make laksa broth with paste", "Add coconut milk", "Cook noodles separately", "Add shrimp and tofu", "Garnish with herbs and lime"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["pescatarian", "malaysian", "gluten-free"],
+    "cuisine": "malaysian"
+  },
+  {
+    "id": 176,
+    "title": "Low-Oil Stir Fry",
+    "ingredients": ["tofu", "broccoli", "carrots", "mushrooms", "water", "soy sauce", "ginger"],
+    "instructions": ["Use water instead of oil", "Steam vegetables first", "Add tofu and sauce", "Cook until heated through", "Serve with brown rice"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["low-fat", "vegan", "heart-healthy", "weight-loss"],
+    "cuisine": "asian"
+  },
+  {
+    "id": 177,
+    "title": "Irish Beef Stew",
+    "ingredients": ["beef", "potatoes", "carrots", "onion", "guinness", "thyme", "bay leaves"],
+    "instructions": ["Brown beef in batches", "Sauté onions until soft", "Add Guinness and broth", "Add vegetables and herbs", "Simmer for 2-3 hours"],
+    "cooking_time": 180,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "irish", "comfort-food"],
+    "cuisine": "irish"
+  },
+  {
+    "id": 178,
+    "title": "Low-Potassium Diet Plate",
+    "ingredients": ["chicken", "white bread", "green beans", "apples", "rice", "butter", "herbs"],
+    "instructions": ["Choose low-potassium foods", "Boil vegetables to reduce potassium", "Use white bread instead of whole grain", "Bake chicken with herbs", "Serve with apple slices"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["low-potassium", "renal-diet", "kidney-friendly"],
+    "cuisine": "american"
+  },
+  {
+    "id": 179,
+    "title": "Indonesian Nasi Goreng",
+    "ingredients": ["rice", "chicken", "shrimp", "kecap manis", "shallots", "chili", "fried egg"],
+    "instructions": ["Use day-old rice", "Sauté shallots and chili", "Add meats and cook", "Add rice and kecap manis", "Top with fried egg"],
+    "cooking_time": 25,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "indonesian", "comfort-food"],
+    "cuisine": "indonesian"
+  },
+  {
+    "id": 180,
+    "title": "Low-Oxalate Chicken Dinner",
+    "ingredients": ["chicken", "cauliflower", "cabbage", "pears", "rice", "olive oil", "herbs"],
+    "instructions": ["Choose low-oxalate ingredients", "Roast chicken with herbs", "Steam cauliflower and cabbage", "Cook white rice", "Serve with fresh pears"],
+    "cooking_time": 40,
+    "difficulty": "easy",
+    "dietary_tags": ["low-oxalate", "kidney-stone-diet", "gluten-free"],
+    "cuisine": "american"
+  },
+  {
+    "id": 181,
+    "title": "Scottish Salmon with Neeps",
+    "ingredients": ["scottish salmon", "turnips", "potatoes", "dill", "butter", "lemon", "green beans"],
+    "instructions": ["Pan-sear salmon skin-side down", "Mash turnips and potatoes", "Add butter and seasoning", "Steam green beans", "Serve with lemon wedges"],
+    "cooking_time": 35,
+    "difficulty": "medium",
+    "dietary_tags": ["pescatarian", "scottish", "gluten-free", "high-protein"],
+    "cuisine": "scottish"
+  },
+  {
+    "id": 182,
+    "title": "Low-Fructose Diet Meal",
+    "ingredients": ["chicken", "spinach", "zucchini", "white rice", "eggs", "olive oil", "herbs"],
+    "instructions": ["Choose low-fructose vegetables", "Bake chicken with herbs", "Sauté spinach and zucchini", "Cook white rice", "Avoid high-fructose fruits"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["low-fructose", "fodmap-friendly", "ibs-diet"],
+    "cuisine": "american"
+  },
+  {
+    "id": 183,
+    "title": "Mexican Vegan Tacos",
+    "ingredients": ["walnuts", "sunflower seeds", "spices", "lettuce", "tomatoes", "avocado", "corn tortillas"],
+    "instructions": ["Process nuts with taco spices", "Sauté to warm through", "Warm tortillas", "Assemble with fresh vegetables", "Top with avocado"],
+    "cooking_time": 20,
+    "difficulty": "easy",
+    "dietary_tags": ["vegan", "mexican", "gluten-free", "high-fiber"],
+    "cuisine": "mexican"
+  },
+  {
+    "id": 184,
+    "title": "Low-Sulfur Diet Chicken",
+    "ingredients": ["chicken", "zucchini", "carrots", "rice", "olive oil", "herbs", "lemon"],
+    "instructions": ["Avoid high-sulfur vegetables", "Bake chicken with lemon", "Steam carrots and zucchini", "Cook white rice", "Use simple seasonings"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["low-sulfur", "allergy-diet", "digestive-health"],
+    "cuisine": "american"
+  },
+  {
+    "id": 185,
+    "title": "Vietnamese Fresh Spring Rolls",
+    "ingredients": ["rice paper", "shrimp", "rice noodles", "lettuce", "mint", "cilantro", "dipping sauce"],
+    "instructions": ["Cook shrimp and noodles", "Soak rice paper briefly", "Layer ingredients on wrapper", "Roll tightly like a burrito", "Serve with peanut dipping sauce"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["pescatarian", "vietnamese", "gluten-free", "low-fat"],
+    "cuisine": "vietnamese"
+  },
+  {
+    "id": 186,
+    "title": "Low-Nickel Diet Meal",
+    "ingredients": ["pork", "cabbage", "cucumber", "white bread", "butter", "apples", "rice"],
+    "instructions": ["Choose low-nickel foods", "Roast pork with herbs", "Make coleslaw with cabbage", "Serve with white bread", "Include apple for dessert"],
+    "cooking_time": 40,
+    "difficulty": "easy",
+    "dietary_tags": ["low-nickel", "allergy-diet", "contact-dermatitis-friendly"],
+    "cuisine": "american"
+  },
+  {
+    "id": 187,
+    "title": "Greek Vegan Moussaka",
+    "ingredients": ["eggplant", "lentils", "potatoes", "tomato sauce", "cashew cream", "nutmeg", "breadcrumbs"],
+    "instructions": ["Slice and roast eggplant", "Make lentil tomato sauce", "Layer with potatoes", "Top with cashew cream", "Bake until golden"],
+    "cooking_time": 60,
+    "difficulty": "hard",
+    "dietary_tags": ["vegan", "greek", "mediterranean", "high-fiber"],
+    "cuisine": "greek"
+  },
+  {
+    "id": 188,
+    "title": "Low-Iodine Diet Chicken",
+    "ingredients": ["fresh chicken", "fresh vegetables", "unsalted butter", "fresh fruits", "homemade bread", "olive oil", "herbs"],
+    "instructions": ["Use only fresh ingredients", "Avoid iodized salt", "Make bread without salt", "Bake chicken with herbs", "Steam fresh vegetables"],
+    "cooking_time": 45,
+    "difficulty": "medium",
+    "dietary_tags": ["low-iodine", "thyroid-diet", "radioactive-iodine-therapy"],
+    "cuisine": "american"
+  },
+  {
+    "id": 189,
+    "title": "Caribbean Callaloo Soup",
+    "ingredients": ["callaloo leaves", "okra", "coconut milk", "sweet potato", "onion", "thyme", "scotch bonnet"],
+    "instructions": ["Sauté onions and thyme", "Add chopped callaloo", "Add coconut milk and broth", "Simmer until greens tender", "Add okra and sweet potato"],
+    "cooking_time": 40,
+    "difficulty": "medium",
+    "dietary_tags": ["vegan", "caribbean", "gluten-free", "high-fiber"],
+    "cuisine": "caribbean"
+  },
+  {
+    "id": 190,
+    "title": "Low-Fat Vegan Buddha Bowl",
+    "ingredients": ["brown rice", "steamed vegetables", "tofu", "low-fat dressing", "sprouts", "lemon", "herbs"],
+    "instructions": ["Steam instead of roasting", "Use water-sauté method", "Choose fat-free dressings", "Load up on vegetables", "Add lemon for flavor"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["low-fat", "vegan", "weight-loss", "heart-healthy"],
+    "cuisine": "fusion"
+  },
+  {
+    "id": 191,
+    "title": "Persian Jeweled Rice",
+    "ingredients": ["basmati rice", "saffron", "barberries", "pistachios", "almonds", "orange zest", "carrots"],
+    "instructions": ["Soak rice for 2 hours", "Parboil and drain", "Layer with fruits and nuts", "Steam with saffron water", "Create golden crust at bottom"],
+    "cooking_time": 60,
+    "difficulty": "hard",
+    "dietary_tags": ["vegetarian", "persian", "vegan", "gluten-free"],
+    "cuisine": "persian"
+  },
+  {
+    "id": 192,
+    "title": "Low-Oxalate Vegan Bowl",
+    "ingredients": ["cauliflower rice", "cabbage", "pears", "zucchini", "tofu", "olive oil", "herbs"],
+    "instructions": ["Use low-oxalate ingredients only", "Make cauliflower rice", "Sauté vegetables", "Bake tofu with herbs", "Add fresh pear slices"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["low-oxalate", "vegan", "kidney-friendly", "gluten-free"],
+    "cuisine": "fusion"
+  },
+  {
+    "id": 193,
+    "title": "Australian Meat Pie",
+    "ingredients": ["beef", "onion", "gravy", "puff pastry", "tomato sauce", "worcestershire", "thyme"],
+    "instructions": ["Cook beef until tender", "Make thick gravy", "Fill pastry cases", "Top with pastry lid", "Bake until golden"],
+    "cooking_time": 60,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "australian", "comfort-food"],
+    "cuisine": "australian"
+  },
+  {
+    "id": 194,
+    "title": "Low-Carb Vegan Salad",
+    "ingredients": ["mixed greens", "avocado", "cucumber", "tofu", "olives", "olive oil", "lemon juice"],
+    "instructions": ["Choose non-starchy vegetables", "Cube and pan-fry tofu", "Make simple vinaigrette", "Add healthy fats from avocado", "Keep net carbs under 10g"],
+    "cooking_time": 20,
+    "difficulty": "easy",
+    "dietary_tags": ["low-carb", "vegan", "keto-friendly", "gluten-free"],
+    "cuisine": "american"
+  },
+  {
+    "id": 195,
+    "title": "South African Bobotie",
+    "ingredients": ["ground beef", "bread", "milk", "curry powder", "apricot jam", "bay leaves", "eggs"],
+    "instructions": ["Sauté beef with curry", "Add soaked bread and jam", "Transfer to baking dish", "Top with egg custard", "Bake until set"],
+    "cooking_time": 60,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "south-african", "comfort-food"],
+    "cuisine": "south-african"
+  },
+  {
+    "id": 196,
+    "title": "Low-FODMAP Vegan Curry",
+    "ingredients": ["tofu", "bok choy", "carrots", "bell peppers", "ginger", "green onion tops", "coconut milk"],
+    "instructions": ["Use low-FODMAP vegetables only", "Sauté with ginger", "Add coconut milk", "Simmer until vegetables tender", "Serve with rice"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["low-fodmap", "vegan", "ibs-friendly", "gluten-free"],
+    "cuisine": "thai"
+  },
+  {
+    "id": 197,
+    "title": "Norwegian Salmon Gravlax",
+    "ingredients": ["salmon", "salt", "sugar", "dill", "mustard sauce", "rye bread", "lemon"],
+    "instructions": ["Cure salmon with salt-sugar mix", "Add fresh dill", "Press for 2-3 days", "Slice thinly", "Serve with mustard sauce"],
+    "cooking_time": 4320,
+    "difficulty": "medium",
+    "dietary_tags": ["pescatarian", "norwegian", "gluten-free", "high-protein"],
+    "cuisine": "norwegian"
+  },
+  {
+    "id": 198,
+    "title": "Low-Oxalate Pescatarian Meal",
+    "ingredients": ["white fish", "cauliflower", "cabbage", "pears", "rice", "olive oil", "herbs"],
+    "instructions": ["Choose low-oxalate fish and vegetables", "Bake fish with herbs", "Steam cauliflower and cabbage", "Cook white rice", "Serve with fresh pears"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["low-oxalate", "pescatarian", "kidney-friendly", "gluten-free"],
+    "cuisine": "american"
+  },
+  {
+    "id": 199,
+    "title": "Middle Eastern Mezze Platter",
+    "ingredients": ["hummus", "baba ghanoush", "falafel", "tabbouleh", "pita", "olives", "feta"],
+    "instructions": ["Prepare all dips and salads", "Warm pita bread", "Arrange beautifully on platter", "Garnish with olive oil and herbs", "Serve at room temperature"],
+    "cooking_time": 45,
+    "difficulty": "medium",
+    "dietary_tags": ["vegetarian", "middle-eastern", "mediterranean", "sharing"],
+    "cuisine": "middle-eastern"
+  },
+  {
+    "id": 200,
+    "title": "Low-Oxalate Vegetarian Bowl",
+    "ingredients": ["cauliflower rice", "cabbage", "zucchini", "tofu", "pears", "olive oil", "herbs"],
+    "instructions": ["Use approved low-oxalate foods", "Make cauliflower rice", "Sauté vegetables", "Bake tofu with herbs", "Add fresh pear for dessert"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["low-oxalate", "vegetarian", "kidney-stone-diet", "gluten-free"],
+    "cuisine": "fusion"
+  },
+  {
+    "id": 201,
+    "title": "Chinese Hot Pot",
+    "ingredients": ["thinly sliced meats", "seafood", "tofu", "vegetables", "noodles", "dipping sauces", "broth"],
+    "instructions": ["Prepare broth in hot pot", "Arrange ingredients on platters", "Cook at table by dipping in broth", "Make personalized dipping sauces", "Enjoy communally"],
+    "cooking_time": 60,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "chinese", "interactive", "sharing"],
+    "cuisine": "chinese"
+  },
+  {
+    "id": 202,
+    "title": "Low-Histamine Vegan Meal",
+    "ingredients": ["fresh tofu", "zucchini", "carrots", "rice", "olive oil", "fresh herbs", "lemon"],
+    "instructions": ["Use only fresh ingredients", "Avoid fermented foods", "Sauté vegetables quickly", "Cook rice fresh", "Use lemon for flavor"],
+    "cooking_time": 25,
+    "difficulty": "easy",
+    "dietary_tags": ["low-histamine", "vegan", "mcas-friendly", "fresh-foods"],
+    "cuisine": "asian"
+  },
+  {
+    "id": 203,
+    "title": "Italian Osso Buco",
+    "ingredients": ["veal shanks", "onion", "carrots", "celery", "white wine", "tomatoes", "gremolata"],
+    "instructions": ["Brown veal shanks", "Sauté vegetables", "Add wine and tomatoes", "Braise for 2-3 hours", "Serve with gremolata"],
+    "cooking_time": 180,
+    "difficulty": "hard",
+    "dietary_tags": ["non-vegetarian", "italian", "comfort-food"],
+    "cuisine": "italian"
+  },
+  {
+    "id": 204,
+    "title": "Low-Salicylate Vegan Bowl",
+    "ingredients": ["cabbage", "pears", "green beans", "tofu", "rice", "olive oil", "salt"],
+    "instructions": ["Choose approved low-salicylate foods", "Steam vegetables", "Bake tofu without spices", "Cook white rice", "Use minimal seasonings"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["low-salicylate", "vegan", "allergy-friendly", "elimination-diet"],
+    "cuisine": "bland"
+  },
+  {
+    "id": 205,
+    "title": "Belgian Moules Frites",
+    "ingredients": ["mussels", "white wine", "shallots", "parsley", "butter", "french fries", "mayonnaise"],
+    "instructions": ["Clean mussels thoroughly", "Sauté shallots in butter", "Add wine and mussels", "Steam until shells open", "Serve with fries and mayo"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["pescatarian", "belgian", "comfort-food"],
+    "cuisine": "belgian"
+  },
+  {
+    "id": 206,
+    "title": "Low-Nickel Vegan Meal",
+    "ingredients": ["cabbage", "cucumber", "tofu", "white bread", "butter", "apples", "rice"],
+    "instructions": ["Choose low-nickel plant foods", "Make coleslaw with cabbage", "Bake tofu simply", "Serve with white bread", "Include apple for dessert"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["low-nickel", "vegan", "allergy-diet", "contact-dermatitis-friendly"],
+    "cuisine": "american"
+  },
+  {
+    "id": 207,
+    "title": "Austrian Wiener Schnitzel",
+    "ingredients": ["veal", "breadcrumbs", "eggs", "flour", "lemon", "potato salad", "lingonberry"],
+    "instructions": ["Pound veal until thin", "Dredge in flour, egg, breadcrumbs", "Fry until golden brown", "Serve with lemon wedge", "Accompany with potato salad"],
+    "cooking_time": 30,
+    "difficulty": "medium",
+    "dietary_tags": ["non-vegetarian", "austrian", "comfort-food"],
+    "cuisine": "austrian"
+  },
+  {
+    "id": 208,
+    "title": "Low-Iodine Vegan Plate",
+    "ingredients": ["fresh tofu", "fresh vegetables", "unsalted butter", "fresh fruits", "homemade bread", "olive oil", "herbs"],
+    "instructions": ["Use only fresh plant ingredients", "Avoid iodized salt", "Make bread without salt", "Bake tofu with herbs", "Steam fresh vegetables"],
+    "cooking_time": 45,
+    "difficulty": "medium",
+    "dietary_tags": ["low-iodine", "vegan", "thyroid-diet", "radioactive-iodine-therapy"],
+    "cuisine": "american"
+  },
+  {
+    "id": 209,
+    "title": "Singaporean Chili Crab",
+    "ingredients": ["mud crab", "chili sauce", "tomato ketchup", "eggs", "ginger", "garlic", "spring onions"],
+    "instructions": ["Clean and crack crab", "Make chili-tomato sauce", "Stir-fry crab in sauce", "Thicken with beaten egg", "Garnish with spring onions"],
+    "cooking_time": 40,
+    "difficulty": "hard",
+    "dietary_tags": ["pescatarian", "singaporean", "spicy", "seafood"],
+    "cuisine": "singaporean"
+  },
+  {
+    "id": 210,
+    "title": "Low-Fat Pescatarian Meal",
+    "ingredients": ["white fish", "steamed vegetables", "brown rice", "lemon", "herbs", "vegetable broth", "steaming"],
+    "instructions": ["Steam fish with herbs", "Steam vegetables without oil", "Cook brown rice", "Use vegetable broth for flavor", "Squeeze lemon before serving"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["low-fat", "pescatarian", "heart-healthy", "weight-loss"],
+    "cuisine": "american"
+  },
+  {
+    "id": 211,
+    "title": "Danish Smørrebrød",
+    "ingredients": ["rye bread", "butter", "pickled herring", "eggs", "shrimp", "dill", "red onion"],
+    "instructions": ["Butter rye bread slices", "Arrange toppings artistically", "Follow traditional combinations", "Garnish with fresh herbs", "Serve open-faced"],
+    "cooking_time": 20,
+    "difficulty": "easy",
+    "dietary_tags": ["pescatarian", "danish", "gluten-free"],
+    "cuisine": "danish"
+  },
+  {
+    "id": 212,
+    "title": "Low-Oxalate Pescatarian Dinner",
+    "ingredients": ["white fish", "cauliflower", "cabbage", "pears", "rice", "olive oil", "herbs"],
+    "instructions": ["Choose low-oxalate fish and sides", "Bake fish with herbs", "Steam cauliflower and cabbage", "Cook white rice", "Serve with fresh pears"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["low-oxalate", "pescatarian", "kidney-friendly", "gluten-free"],
+    "cuisine": "american"
+  },
+  {
+    "id": 213,
+    "title": "Finnish Salmon Soup",
+    "ingredients": ["salmon", "potatoes", "leeks", "dill", "cream", "fish stock", "allspice"],
+    "instructions": ["Sauté leeks until soft", "Add potatoes and stock", "Simmer until potatoes tender", "Add salmon and cream", "Finish with fresh dill"],
+    "cooking_time": 40,
+    "difficulty": "easy",
+    "dietary_tags": ["pescatarian", "finnish", "comfort-food", "gluten-free"],
+    "cuisine": "finnish"
+  },
+  {
+    "id": 214,
+    "title": "Low-FODMAP Pescatarian Meal",
+    "ingredients": ["white fish", "bok choy", "carrots", "bell peppers", "ginger", "green onion tops", "rice"],
+    "instructions": ["Use low-FODMAP vegetables only", "Bake fish with ginger", "Steam vegetables", "Cook white rice", "Garnish with green onion tops"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["low-fodmap", "pescatarian", "ibs-friendly", "gluten-free"],
+    "cuisine": "asian"
+  },
+  {
+    "id": 215,
+    "title": "Dutch Stamppot",
+    "ingredients": ["potatoes", "kale", "sausage", "butter", "milk", "mustard", "gravy"],
+    "instructions": ["Boil potatoes until tender", "Cook kale separately", "Mash potatoes with butter", "Mix in chopped kale", "Serve with sausage"],
+    "cooking_time": 45,
+    "difficulty": "easy",
+    "dietary_tags": ["non-vegetarian", "dutch", "comfort-food"],
+    "cuisine": "dutch"
+  },
+  {
+    "id": 216,
+    "title": "Low-Histamine Pescatarian Meal",
+    "ingredients": ["fresh white fish", "zucchini", "carrots", "rice", "olive oil", "fresh herbs", "lemon"],
+    "instructions": ["Use only fresh ingredients", "Avoid aged or smoked fish", "Bake fish with herbs", "Steam vegetables", "Cook rice fresh"],
+    "cooking_time": 30,
+    "difficulty": "easy",
+    "dietary_tags": ["low-histamine", "pescatarian", "mcas-friendly", "fresh-foods"],
+    "cuisine": "american"
+  },
+  {
+    "id": 217,
+    "title": "Welsh Rarebit",
+    "ingredients": ["cheese", "beer", "mustard", "worcestershire", "bread", "butter", "egg"],
+    "instructions": ["Make cheese sauce with beer", "Add mustard and worcestershire", "Toast bread slices", "Top with cheese sauce", "Broil until bubbly"],
+    "cooking_time": 20,
+    "difficulty": "easy",
+    "dietary_tags": ["vegetarian", "welsh", "comfort-food"],
+    "cuisine": "welsh"
+  },
+  {
+    "id": 218,
+    "title": "Low-Salicylate Pescatarian Meal",
+    "ingredients": ["white fish", "cabbage", "pears", "green beans", "rice", "olive oil", "salt"],
+    "instructions": ["Choose approved low-salicylate foods", "Bake fish simply", "Steam vegetables", "Cook white rice", "Use minimal seasonings"],
+    "cooking_time": 35,
+    "difficulty": "easy",
+    "dietary_tags": ["low-salicylate", "pescatarian", "allergy-friendly", "elimination-diet"],
+    "cuisine": "bland"
+  },
+  {
+    "id": 219,
+    "title": "Icelandic Plokkfiskur",
+    "ingredients": ["white fish", "potatoes", "onion", "milk", "butter", "flour", "chives"],
+    "instructions": ["Boil fish and potatoes", "Sauté onions in butter", "Make white sauce", "Flake fish and mix with potatoes", "Bake until golden"],
+    "cooking_time": 50,
+    "difficulty": "medium",
+    "dietary_tags": ["pescatarian", "icelandic", "comfort-food"],
+    "cuisine": "icelandic"
+  },
+  {
+    "id": 220,
+    "title": "Low-Nickel Pescatarian Meal",
+    "ingredients": ["white fish", "cabbage", "cucumber", "white bread", "butter", "apples", "rice"],
+    "instructions": ["Choose low-nickel fish and sides", "Bake fish with herbs", "Make coleslaw with cabbage", "Serve with white bread", "Include apple for dessert"],
+    "cooking_time": 40,
+    "difficulty": "easy",
+    "dietary_tags": ["low-nickel", "pescatarian", "allergy-diet", "contact-dermatitis-friendly"],
+    "cuisine": "american"
+  }
+]
