@@ -312,7 +312,7 @@ function App() {
         <Toolbar>
           <Restaurant sx={{ mr: 2 }} />
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            PantryAI - Smart Recipe Assistant
+            RecipeAI - Smart Recipe Assistant
           </Typography>
         </Toolbar>
       </AppBar>
