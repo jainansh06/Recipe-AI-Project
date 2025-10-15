@@ -10,20 +10,23 @@ from nutrition_analyzer import NutritionAnalyzer, MealPlanner
 import os
 
 app = Flask(__name__)
-from flask_cors import CORS
+
 
 # Replace your existing CORS setup with this:
 if os.environ.get('FLASK_ENV') == 'production':
-    # In production, allow only your Vercel domain
+    # Production - allow your Vercel domain
     CORS(app, resources={
         r"/api/*": {
             "origins": [
-                "https://recipe-ai-project.vercel.app/"
-            ]
+                "https://recipe-ai-project.vercel.app",
+                "https://*.vercel.app"
+            ],
+            "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+            "allow_headers": ["Content-Type", "Authorization"]
         }
     })
 else:
-    # In development, allow localhost
+    # Development - allow localhost
     CORS(app)
 
 # Initialize components
@@ -42,6 +45,30 @@ meal_planner = MealPlanner(matcher)
 
 print("All services initialized!")
 
+@app.errorhandler(404)
+def not_found(error):
+    return jsonify({
+        "error": "Endpoint not found",
+        "available_endpoints": {
+            "/api/health": "GET - Health check",
+            "/api/recipes": "POST - Find recipes by ingredients",
+            "/api/generate-recipe": "POST - Generate new recipe with AI",
+            "/api/meal-plan": "POST - Generate weekly meal plan"
+        }
+    }), 404
+
+@app.errorhandler(500)
+def internal_error(error):
+    return jsonify({"error": "Internal server error"}), 500
+@app.before_request
+def handle_preflight():
+    if request.method == "OPTIONS":
+        response = jsonify({"status": "success"})
+        response.headers.add("Access-Control-Allow-Origin", "*")
+        response.headers.add("Access-Control-Allow-Headers", "Content-Type,Authorization")
+        response.headers.add("Access-Control-Allow-Methods", "GET,PUT,POST,DELETE,OPTIONS")
+        return response
+    
 @app.route('/')
 def home():
     return jsonify({
