@@ -10,7 +10,21 @@ from nutrition_analyzer import NutritionAnalyzer, MealPlanner
 import os
 
 app = Flask(__name__)
-CORS(app)
+from flask_cors import CORS
+
+# Replace your existing CORS setup with this:
+if os.environ.get('FLASK_ENV') == 'production':
+    # In production, allow only your Vercel domain
+    CORS(app, resources={
+        r"/api/*": {
+            "origins": [
+                "https://recipe-ai-project.vercel.app/"
+            ]
+        }
+    })
+else:
+    # In development, allow localhost
+    CORS(app)
 
 # Initialize components
 print("Loading recipes...")
